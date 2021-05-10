@@ -1,0 +1,1001 @@
+nr,real,scatter,polyhedron,symm,theta,phi,alpha,size,stretch,axis,cut,caxis
+1,./real/1/1r.png,./scatter/1/1s.png,Truncated Twinned Tetrahedron,C_6,1.9734,0.444698,0.0846369,0.628589,0.622811,C6,0.208817,C6
+2,./real/1/2r.png,./scatter/1/2s.png,Dodecahedron,I_h,1.05833,-1.83182,-1.93397,0.539825,0.898659,C5,0.60609,C5
+3,./real/1/3r.png,./scatter/1/3s.png,Rhombicuboctahedron,O_h,1.71373,1.01992,-2.36386,0.836139,1.19597,C2,0.425355,C2
+4,./real/1/4r.png,./scatter/1/4s.png,Truncated Cuboctahedron,O_h,1.07844,2.96471,-0.473279,0.890131,0.759742,C2,0.953166,C2
+5,./real/1/5r.png,./scatter/1/5s.png,Rhombicosidodecahedron,I_h,0.803493,2.43787,-0.807774,0.586673,0.711254,C3,0.248337,C3
+6,./real/1/6r.png,./scatter/1/6s.png,Truncated Twinned Tetrahedron,C_6,2.33504,-1.77976,1.06404,0.691337,1.44647,C6,0.897623,C6
+7,./real/1/7r.png,./scatter/1/7s.png,Octahedron,O_h,0.571962,-2.98836,2.3639,0.319636,1.21282,C3,0.80169,C3
+8,./real/1/8r.png,./scatter/1/8s.png,Decahedron,D_5h,1.56299,-1.4163,2.26618,0.940587,1.06317,C5,0.31567,C5
+9,./real/1/9r.png,./scatter/1/9s.png,Icosahedron,I_h,2.49181,2.33544,-0.670427,0.676899,1.44362,C5,0.564074,C5
+10,./real/1/10r.png,./scatter/1/10s.png,Decahedron,D_5h,1.27763,0.999026,2.60663,0.881338,1.13464,C2,0.232835,C2
+11,./real/1/11r.png,./scatter/1/11s.png,Truncated Rhombicosidodecahedron,I_h,0.926942,-0.698421,0.903565,0.81209,1.23139,C2,0.639148,C2
+12,./real/1/12r.png,./scatter/1/12s.png,Truncated Octahedron,O_h,1.59234,-2.45193,-2.04537,0.946411,1.05662,C2,0.573453,C2
+13,./real/1/13r.png,./scatter/1/13s.png,Tetrahedron,T_d,1.83821,2.37315,-0.638086,0.768711,1.30088,C3,0.254215,C3
+14,./real/1/14r.png,./scatter/1/14s.png,Rhombicosidodecahedron,I_h,0.723016,1.71539,3.06109,0.706833,1.41476,C2,0.702173,C2
+15,./real/1/15r.png,./scatter/1/15s.png,Tetrahedron,T_d,0.717448,-0.733449,-0.5094,0.965571,1.03566,C2,0.623272,C2
+16,./real/1/16r.png,./scatter/1/16s.png,Tetrahedron,T_d,2.00757,-0.503042,1.38408,0.265571,0.730059,C3,0.528108,C3
+17,./real/1/17r.png,./scatter/1/17s.png,Tetrahedron,T_d,2.58813,-2.0121,-0.503505,0.789627,1.23035,C2,0.528734,C2
+18,./real/1/18r.png,./scatter/1/18s.png,Cuboctahedron,O_h,1.73655,-2.17301,-2.55404,0.425655,1.55138,C3,0.434967,C3
+19,./real/1/19r.png,./scatter/1/19s.png,Truncated Rhombicosidodecahedron,I_h,1.72086,-1.54785,0.281821,0.327938,1.0809,C5,0.228459,C5
+20,./real/1/20r.png,./scatter/1/20s.png,Cube,O_h,1.57136,-2.88221,0.322355,0.499198,1.03632,C2,0.320882,C2
+21,./real/1/21r.png,./scatter/1/21s.png,Sphere,SO(3),0.454151,0.707947,-2.22646,0.899845,1.1113,z,0.510736,z
+22,./real/1/22r.png,./scatter/1/22s.png,Truncated Cube,O_h,1.24155,2.21077,-2.12631,0.33759,0.757236,C2,0.911208,C2
+23,./real/1/23r.png,./scatter/1/23s.png,Rhombicosidodecahedron,I_h,1.03512,-0.795482,-1.40537,0.572488,0.524811,C5,0.666541,C5
+24,./real/1/24r.png,./scatter/1/24s.png,Potato,None,0.869728,-2.7194,-2.71758,0.994704,,
+25,./real/1/25r.png,./scatter/1/25s.png,Cube,O_h,1.56682,-0.585148,-0.845144,0.809081,0.888053,C4,0.445443,C4
+26,./real/1/26r.png,./scatter/1/26s.png,Icosidodecahedron,I_h,2.1304,-0.261239,1.01417,0.765831,0.541268,C3,0.378268,C3
+27,./real/1/27r.png,./scatter/1/27s.png,Tetrahedron,T_d,2.67418,2.41194,2.75476,0.68625,1.13149,C2,0.860465,C2
+28,./real/1/28r.png,./scatter/1/28s.png,Rhombicosidodecahedron,I_h,1.18762,-3.00063,2.44203,0.50619,0.996406,C5,0.46087,C5
+29,./real/1/29r.png,./scatter/1/29s.png,Truncated Cube,O_h,2.22518,3.13073,2.1129,0.470736,1.601,C3,0.645478,C3
+30,./real/1/30r.png,./scatter/1/30s.png,Rhombicuboctahedron,O_h,1.2251,0.150345,0.648625,0.356535,1.27913,C2,0.863491,C2
+31,./real/1/31r.png,./scatter/1/31s.png,Truncated Rhombicosidodecahedron,I_h,1.29054,2.75748,1.97242,0.321121,1.90389,C5,0.717609,C5
+32,./real/1/32r.png,./scatter/1/32s.png,Icosahedron,I_h,0.968503,-1.68565,-0.0393154,0.622371,1.09629,C5,0.843029,C5
+33,./real/1/33r.png,./scatter/1/33s.png,Truncated Cuboctahedron,O_h,1.11143,-2.69878,-1.77763,0.837331,0.566485,C2,0.568724,C2
+34,./real/1/34r.png,./scatter/1/34s.png,Truncated Dodecahedron,I_h,0.761387,2.24824,-2.10613,0.300736,1.08512,C3,0.808286,C3
+35,./real/1/35r.png,./scatter/1/35s.png,Cuboctahedron,O_h,1.83537,-1.39454,-1.11042,0.208522,1.97933,C4,0.88172,C4
+36,./real/1/36r.png,./scatter/1/36s.png,Cuboctahedron,O_h,1.28947,0.0830733,-2.37621,0.288203,1.14704,C4,0.538566,C4
+37,./real/1/37r.png,./scatter/1/37s.png,Cube,O_h,2.6938,1.91617,0.369924,0.394205,1.60419,C3,0.348752,C3
+38,./real/1/38r.png,./scatter/1/38s.png,Truncated Octahedron,O_h,1.4121,1.1373,2.56454,0.303967,1.03001,C2,0.916691,C2
+39,./real/1/39r.png,./scatter/1/39s.png,Sphere,SO(3),1.61025,-0.343221,-0.278604,0.284854,1.64631,z,0.835386,z
+40,./real/1/40r.png,./scatter/1/40s.png,Tetrahedron,T_d,1.30346,0.743368,-2.8063,0.780256,1.28163,C3,0.736023,C3
+41,./real/1/41r.png,./scatter/1/41s.png,Sphere,SO(3),2.12416,0.770832,-1.89178,0.333008,0.978072,z,0.616575,z
+42,./real/1/42r.png,./scatter/1/42s.png,Octahedron,O_h,0.877012,-2.81384,1.8586,0.200786,1.15484,C3,0.660138,C3
+43,./real/1/43r.png,./scatter/1/43s.png,Cube,O_h,1.20271,0.425386,1.65481,0.570032,1.70507,C3,0.913535,C3
+44,./real/1/44r.png,./scatter/1/44s.png,Truncated Cuboctahedron,O_h,1.68053,-2.77712,-0.141705,0.285866,1.7997,C2,0.710942,C2
+45,./real/1/45r.png,./scatter/1/45s.png,Rhombicuboctahedron,O_h,2.61944,-2.94049,-2.84114,0.634136,1.50554,C3,0.30796,C3
+46,./real/1/46r.png,./scatter/1/46s.png,Sphere,SO(3),1.35642,-2.71024,1.4874,0.675472,1.36489,z,0.802277,z
+47,./real/1/47r.png,./scatter/1/47s.png,Cuboctahedron,O_h,1.39687,-0.564464,1.98811,0.972109,0.719431,C3,0.708394,C3
+48,./real/1/48r.png,./scatter/1/48s.png,Rhombicosidodecahedron,I_h,2.02056,-1.07399,-0.156004,0.799367,1.25099,C5,0.553952,C5
+49,./real/1/49r.png,./scatter/1/49s.png,Truncated Tetrahedron,T_d,1.76049,0.162615,-0.874199,0.899985,1.10549,C3,0.374046,C3
+50,./real/1/50r.png,./scatter/1/50s.png,Cuboctahedron,O_h,0.595895,-0.0649529,1.11995,0.315143,1.94373,C3,0.552487,C3
+51,./real/1/51r.png,./scatter/1/51s.png,Cube,O_h,2.47641,-0.0145199,-1.90422,0.758022,1.31922,C2,0.360405,C2
+52,./real/1/52r.png,./scatter/1/52s.png,Icosahedron,I_h,1.03274,0.952445,-2.5377,0.483286,0.680441,C3,0.662067,C3
+53,./real/1/53r.png,./scatter/1/53s.png,Tetrahedron,T_d,2.77675,0.00706874,1.35331,0.943348,0.523547,C2,0.775886,C2
+54,./real/1/54r.png,./scatter/1/54s.png,Rhombicuboctahedron,O_h,1.63992,-0.509511,-0.430205,0.692481,1.30394,C2,0.830128,C2
+55,./real/1/55r.png,./scatter/1/55s.png,Decahedron,D_5h,0.54342,1.02556,-3.11499,0.785587,1.27293,C2,0.678915,C2
+56,./real/1/56r.png,./scatter/1/56s.png,Icosahedron,I_h,2.09424,1.49101,2.85397,0.924477,1.08169,C5,0.674115,C5
+57,./real/1/57r.png,./scatter/1/57s.png,Truncated Dodecahedron,I_h,1.98539,-0.0586603,-0.877768,0.30015,1.03492,C2,0.358631,C2
+58,./real/1/58r.png,./scatter/1/58s.png,Sphere,SO(3),1.12231,-0.546809,-1.39551,0.803031,1.24528,z,0.713456,z
+59,./real/1/59r.png,./scatter/1/59s.png,Sphere,SO(3),2.70401,1.05265,2.48157,0.755786,0.549384,z,0.779701,z
+60,./real/1/60r.png,./scatter/1/60s.png,Dodecahedron,I_h,1.83049,1.60782,1.15925,0.602033,1.66104,C5,0.366243,C5
+61,./real/1/61r.png,./scatter/1/61s.png,Truncated Cuboctahedron,O_h,0.785221,2.75243,-1.80592,0.254259,1.21754,C2,0.262286,C2
+62,./real/1/62r.png,./scatter/1/62s.png,Rhombicosidodecahedron,I_h,1.62112,-0.816038,-2.67121,0.973859,1.02684,C2,0.916835,C2
+63,./real/1/63r.png,./scatter/1/63s.png,Cuboctahedron,O_h,1.78475,-0.621012,-2.71678,0.776171,1.28838,C2,0.81395,C2
+64,./real/1/64r.png,./scatter/1/64s.png,Decahedron,D_5h,1.50094,0.461316,-1.79633,0.61625,0.902669,C5,0.835468,C5
+65,./real/1/65r.png,./scatter/1/65s.png,Truncated Dodecahedron,I_h,2.57794,0.0642794,2.13944,0.987113,1.01306,C5,0.573849,C5
+66,./real/1/66r.png,./scatter/1/66s.png,Truncated Rhombicosidodecahedron,I_h,0.915629,-0.972865,2.21928,0.835496,1.00971,C3,0.99956,C3
+67,./real/1/67r.png,./scatter/1/67s.png,Sphere,SO(3),0.834379,0.300912,3.08361,0.801526,0.550607,z,0.329139,z
+68,./real/1/68r.png,./scatter/1/68s.png,Truncated Rhombicosidodecahedron,I_h,1.60855,1.54031,-0.498861,0.45917,1.40363,C2,0.966998,C2
+69,./real/1/69r.png,./scatter/1/69s.png,Cube,O_h,1.4061,1.08911,-2.98309,0.838235,1.19298,C2,0.936899,C2
+70,./real/1/70r.png,./scatter/1/70s.png,Decahedron,D_5h,1.89463,-0.807076,-0.649837,0.712674,1.334,C2,0.327798,C2
+71,./real/1/71r.png,./scatter/1/71s.png,Rhombicuboctahedron,O_h,1.46824,2.17347,-2.7361,0.67832,0.652453,C3,0.234894,C3
+72,./real/1/72r.png,./scatter/1/72s.png,Icosidodecahedron,I_h,2.81567,1.43428,-2.41555,0.381411,1.17816,C5,0.564967,C5
+73,./real/1/73r.png,./scatter/1/73s.png,Cuboctahedron,O_h,1.085,-0.98922,1.27202,0.582871,1.29082,C4,0.370139,C4
+74,./real/1/74r.png,./scatter/1/74s.png,Tetrahedron,T_d,1.42526,-1.0786,2.3333,0.301556,1.92831,C2,0.509901,C2
+75,./real/1/75r.png,./scatter/1/75s.png,Icosahedron,I_h,1.3149,-0.638681,0.701936,0.500472,1.92717,C5,0.681484,C5
+76,./real/1/76r.png,./scatter/1/76s.png,Truncated Cube,O_h,2.08541,-1.35989,-0.642713,0.704665,0.927257,C4,0.890835,C4
+77,./real/1/77r.png,./scatter/1/77s.png,Truncated Rhombicosidodecahedron,I_h,1.11796,-2.41865,0.417404,0.789092,0.809258,C2,0.208339,C2
+78,./real/1/78r.png,./scatter/1/78s.png,Cube,O_h,0.548908,-1.56339,-2.1207,0.759556,1.31656,C4,0.593628,C4
+79,./real/1/79r.png,./scatter/1/79s.png,Truncated Rhombicosidodecahedron,I_h,0.434833,-0.944689,2.05188,0.463907,0.565663,C3,0.709677,C3
+80,./real/1/80r.png,./scatter/1/80s.png,Tetrahedron,T_d,2.7267,1.1398,-2.89333,0.649162,0.922515,C3,0.435427,C3
+81,./real/1/81r.png,./scatter/1/81s.png,Rhombicuboctahedron,O_h,1.95479,1.82124,-2.08134,0.523427,0.947637,C3,0.345877,C3
+82,./real/1/82r.png,./scatter/1/82s.png,Dodecahedron,I_h,1.97233,0.168041,-2.00746,0.741911,1.34787,C2,0.564878,C2
+83,./real/1/83r.png,./scatter/1/83s.png,Icosahedron,I_h,0.529152,2.54189,-2.51801,0.760878,1.14585,C2,0.525871,C2
+84,./real/1/84r.png,./scatter/1/84s.png,Truncated Dodecahedron,I_h,0.898482,0.260698,0.126031,0.478941,0.884505,C5,0.814284,C5
+85,./real/1/85r.png,./scatter/1/85s.png,Sphere,SO(3),0.974365,-2.58443,-1.35966,0.651975,1.5338,z,0.368275,z
+86,./real/1/86r.png,./scatter/1/86s.png,Dodecahedron,I_h,1.00041,1.41499,-0.841492,0.69329,1.4424,C5,0.20858,C5
+87,./real/1/87r.png,./scatter/1/87s.png,Octahedron,O_h,1.58462,-1.0334,0.259261,0.737441,0.5779,C2,0.453885,C2
+88,./real/1/88r.png,./scatter/1/88s.png,Octahedron,O_h,0.934455,-2.0481,2.39181,0.378081,1.82144,C2,0.898821,C2
+89,./real/1/89r.png,./scatter/1/89s.png,Truncated Cuboctahedron,O_h,1.8137,1.96313,-0.550567,0.646955,1.49005,C2,0.74586,C2
+90,./real/1/90r.png,./scatter/1/90s.png,Icosidodecahedron,I_h,1.29999,-2.65186,2.73703,0.240652,1.50261,C5,0.321646,C5
+91,./real/1/91r.png,./scatter/1/91s.png,Icosahedron,I_h,1.56236,0.0439444,2.51714,0.525224,0.98765,C2,0.772465,C2
+92,./real/1/92r.png,./scatter/1/92s.png,Snub Cube,O,1.68138,2.99612,0.520322,0.257837,0.718443,C2,0.634151,C2
+93,./real/1/93r.png,./scatter/1/93s.png,Rhombicosidodecahedron,I_h,1.69354,0.987232,-1.86105,0.227114,1.82203,C3,0.653834,C3
+94,./real/1/94r.png,./scatter/1/94s.png,Truncated Octahedron,O_h,0.552216,-2.79495,-2.8635,0.990514,1.00958,C2,0.976206,C2
+95,./real/1/95r.png,./scatter/1/95s.png,Decahedron,D_5h,1.9647,-2.06835,-1.74994,0.963974,1.03737,C5,0.23182,C5
+96,./real/1/96r.png,./scatter/1/96s.png,Cuboctahedron,O_h,1.05564,1.1075,-0.15458,0.547964,0.919701,C3,0.613303,C3
+97,./real/1/97r.png,./scatter/1/97s.png,Icosidodecahedron,I_h,0.915208,-0.730489,1.53843,0.855994,1.16823,C2,0.429924,C2
+98,./real/1/98r.png,./scatter/1/98s.png,Dodecahedron,I_h,2.02288,-1.56758,0.47091,0.375744,1.42226,C3,0.652852,C3
+99,./real/1/99r.png,./scatter/1/99s.png,Truncated Dodecahedron,I_h,2.42793,-1.71089,2.09376,0.806665,0.971902,C3,0.504907,C3
+100,./real/1/100r.png,./scatter/1/100s.png,Rhombicuboctahedron,O_h,2.11922,2.37323,-1.95078,0.787831,0.702963,C2,0.790771,C2
+101,./real/1/101r.png,./scatter/1/101s.png,Cube,O_h,0.770397,-2.52415,0.140631,0.916757,1.04834,C3,0.221137,C3
+102,./real/1/102r.png,./scatter/1/102s.png,Truncated Cuboctahedron,O_h,1.33611,-0.867271,-2.00131,0.947907,0.997721,C4,0.569587,C4
+103,./real/1/103r.png,./scatter/1/103s.png,Sphere,SO(3),2.68762,-1.06963,-2.47906,0.297647,1.94696,z,0.43284,z
+104,./real/1/104r.png,./scatter/1/104s.png,Snub Cube,O,1.78971,0.619288,0.608934,0.883291,1.13213,C3,0.507718,C3
+105,./real/1/105r.png,./scatter/1/105s.png,Icosahedron,I_h,0.966965,2.18618,0.950257,0.297658,1.72359,C2,0.828204,C2
+106,./real/1/106r.png,./scatter/1/106s.png,Icosidodecahedron,I_h,2.00931,2.62736,0.418972,0.349723,1.78048,C2,0.606472,C2
+107,./real/1/107r.png,./scatter/1/107s.png,Truncated Octahedron,O_h,2.46371,1.20649,1.59933,0.858185,1.00246,C2,0.885207,C2
+108,./real/1/108r.png,./scatter/1/108s.png,Icosahedron,I_h,1.72175,-2.4033,0.570891,0.797031,0.548893,C2,0.598195,C2
+109,./real/1/109r.png,./scatter/1/109s.png,Truncated Octahedron,O_h,1.86131,2.64955,-0.858728,0.49549,1.22117,C3,0.651299,C3
+110,./real/1/110r.png,./scatter/1/110s.png,Truncated Icosahedron,I_h,1.50943,-1.11673,2.71001,0.568045,1.13705,C5,0.54875,C5
+111,./real/1/111r.png,./scatter/1/111s.png,Cuboctahedron,O_h,1.56593,-2.46757,2.35114,0.955273,0.673382,C3,0.969989,C3
+112,./real/1/112r.png,./scatter/1/112s.png,Truncated Rhombicosidodecahedron,I_h,0.877459,1.25557,2.59139,0.652767,0.727421,C3,0.298139,C3
+113,./real/1/113r.png,./scatter/1/113s.png,Cuboctahedron,O_h,1.1448,-2.92064,0.878853,0.435562,1.37252,C2,0.23861,C2
+114,./real/1/114r.png,./scatter/1/114s.png,Truncated Rhombicosidodecahedron,I_h,2.03743,0.0231691,-2.66104,0.545975,1.25564,C2,0.292018,C2
+115,./real/1/115r.png,./scatter/1/115s.png,Octahedron,O_h,0.953981,-2.31023,1.29787,0.61765,0.858227,C2,0.618778,C2
+116,./real/1/116r.png,./scatter/1/116s.png,Truncated Cuboctahedron,O_h,1.5176,-2.57856,2.32169,0.810157,1.23433,C2,0.817201,C2
+117,./real/1/117r.png,./scatter/1/117s.png,Sphere,SO(3),1.18254,0.193833,-2.06339,0.449168,1.05319,z,0.601419,z
+118,./real/1/118r.png,./scatter/1/118s.png,Icosahedron,I_h,1.23799,0.88097,1.49806,0.207019,1.71133,C5,0.362111,C5
+119,./real/1/119r.png,./scatter/1/119s.png,Truncated Dodecahedron,I_h,0.527828,0.950036,-2.71682,0.434749,0.95361,C3,0.708872,C3
+120,./real/1/120r.png,./scatter/1/120s.png,Cuboctahedron,O_h,0.137623,-3.02597,-2.9616,0.222637,1.92407,C3,0.236169,C3
+121,./real/1/121r.png,./scatter/1/121s.png,Tetrahedron,T_d,1.93663,-2.27824,0.487776,0.747644,0.642303,C2,0.396819,C2
+122,./real/1/122r.png,./scatter/1/122s.png,Dodecahedron,I_h,1.62777,-1.0809,3.11786,0.753932,1.00491,C3,0.924057,C3
+123,./real/1/123r.png,./scatter/1/123s.png,Dodecahedron,I_h,1.6199,2.79812,-2.26011,0.55589,0.54312,C5,0.356788,C5
+124,./real/1/124r.png,./scatter/1/124s.png,Truncated Tetrahedron,T_d,0.128256,-1.05242,-1.9973,0.599141,0.53673,C3,0.266453,C3
+125,./real/1/125r.png,./scatter/1/125s.png,Icosahedron,I_h,2.62158,-1.88277,1.29267,0.439543,1.23066,C3,0.375581,C3
+126,./real/1/126r.png,./scatter/1/126s.png,Truncated Icosahedron,I_h,1.99106,-0.196819,-2.73221,0.793751,1.07608,C3,0.311543,C3
+127,./real/1/127r.png,./scatter/1/127s.png,Dodecahedron,I_h,0.927852,0.379378,-1.88278,0.768958,1.30046,C3,0.920604,C3
+128,./real/1/128r.png,./scatter/1/128s.png,Cube,O_h,1.61162,1.47029,0.782597,0.676634,0.739378,C2,0.283444,C2
+129,./real/1/129r.png,./scatter/1/129s.png,Icosidodecahedron,I_h,0.266113,2.95872,-1.74062,0.926321,1.07954,C5,0.773427,C5
+130,./real/1/130r.png,./scatter/1/130s.png,Truncated Cuboctahedron,O_h,1.79503,1.65208,-0.471213,0.402432,0.695848,C2,0.308734,C2
+131,./real/1/131r.png,./scatter/1/131s.png,Octahedron,O_h,2.83713,-3.07956,-0.764071,0.895927,1.03771,C3,0.659911,C3
+132,./real/1/132r.png,./scatter/1/132s.png,Truncated Octahedron,O_h,2.46762,3.08619,-0.00519769,0.474956,1.87767,C3,0.724343,C3
+133,./real/1/133r.png,./scatter/1/133s.png,Decahedron,D_5h,0.283387,-1.78698,1.87864,0.879078,1.00366,C5,0.763511,C5
+134,./real/1/134r.png,./scatter/1/134s.png,Octahedron,O_h,2.26801,3.01685,1.82913,0.257166,0.820972,C4,0.239911,C4
+135,./real/1/135r.png,./scatter/1/135s.png,Truncated Icosahedron,I_h,0.800512,-1.13993,0.204388,0.335669,1.77714,C2,0.699051,C2
+136,./real/1/136r.png,./scatter/1/136s.png,Cube,O_h,1.39528,-2.1832,-1.88657,0.209031,0.627733,C4,0.670658,C4
+137,./real/1/137r.png,./scatter/1/137s.png,Dodecahedron,I_h,1.36151,-0.896065,1.7085,0.974162,1.02652,C2,0.490734,C2
+138,./real/1/138r.png,./scatter/1/138s.png,Rhombicosidodecahedron,I_h,2.48918,-1.69313,-0.437095,0.372835,1.76236,C2,0.950522,C2
+139,./real/1/139r.png,./scatter/1/139s.png,Truncated Twinned Tetrahedron,C_6,0.747243,-1.36374,-0.481813,0.381611,0.551055,C6,0.706131,C6
+140,./real/1/140r.png,./scatter/1/140s.png,Rhombicuboctahedron,O_h,2.24159,-2.18347,2.84585,0.912931,1.04562,C3,0.314651,C3
+141,./real/1/141r.png,./scatter/1/141s.png,Truncated Twinned Tetrahedron,C_6,0.767901,-2.19152,-2.83142,0.296517,0.662311,C6,0.42529,C6
+142,./real/1/142r.png,./scatter/1/142s.png,Truncated Dodecahedron,I_h,1.25423,0.344152,0.304405,0.660385,1.51427,C5,0.376132,C5
+143,./real/1/143r.png,./scatter/1/143s.png,Truncated Octahedron,O_h,2.33477,1.84069,-2.73043,0.45712,1.10109,C2,0.958314,C2
+144,./real/1/144r.png,./scatter/1/144s.png,Truncated Cube,O_h,0.713662,-2.47297,0.128445,0.388001,1.79502,C2,0.465503,C2
+145,./real/1/145r.png,./scatter/1/145s.png,Truncated Twinned Tetrahedron,C_6,0.910849,-1.76459,1.0063,0.330752,0.652502,C6,0.623076,C6
+146,./real/1/146r.png,./scatter/1/146s.png,Rhombicosidodecahedron,I_h,1.86253,0.921057,-0.352968,0.411638,0.640185,C3,0.250808,C3
+147,./real/1/147r.png,./scatter/1/147s.png,Tetrahedron,T_d,1.48475,-1.08865,3.11791,0.633408,0.862246,C2,0.919216,C2
+148,./real/1/148r.png,./scatter/1/148s.png,Potato,None,1.40011,1.82771,-2.93541,0.501158,,
+149,./real/1/149r.png,./scatter/1/149s.png,Rhombicuboctahedron,O_h,1.4594,-3.10964,1.8145,0.866861,0.50974,C4,0.84666,C4
+150,./real/1/150r.png,./scatter/1/150s.png,Rhombicosidodecahedron,I_h,1.97278,0.159057,-1.56921,0.340906,0.557064,C3,0.494317,C3
+151,./real/1/151r.png,./scatter/1/151s.png,Truncated Rhombicosidodecahedron,I_h,1.59628,1.01345,-1.66298,0.950152,0.863996,C3,0.284935,C3
+152,./real/1/152r.png,./scatter/1/152s.png,Octahedron,O_h,2.68214,0.00247861,1.41093,0.65653,1.12949,C2,0.699876,C2
+153,./real/1/153r.png,./scatter/1/153s.png,Potato,None,2.05953,-1.44571,-2.42927,0.95219,,
+154,./real/1/154r.png,./scatter/1/154s.png,Dodecahedron,I_h,0.305669,1.54558,-0.436638,0.707819,1.41279,C2,0.790699,C2
+155,./real/1/155r.png,./scatter/1/155s.png,Truncated Octahedron,O_h,1.81921,-1.56559,-1.57294,0.76928,1.29992,C3,0.246793,C3
+156,./real/1/156r.png,./scatter/1/156s.png,Truncated Octahedron,O_h,1.86923,1.10887,2.5175,0.960113,1.04154,C3,0.684179,C3
+157,./real/1/157r.png,./scatter/1/157s.png,Decahedron,D_5h,0.306379,-0.653171,-2.50326,0.803581,1.24443,C5,0.379663,C5
+158,./real/1/158r.png,./scatter/1/158s.png,Dodecahedron,I_h,2.43853,1.3554,-1.37349,0.962967,0.802213,C2,0.902183,C2
+159,./real/1/159r.png,./scatter/1/159s.png,Truncated Dodecahedron,I_h,1.53052,-1.72862,-2.88169,0.901672,1.10905,C5,0.291676,C5
+160,./real/1/160r.png,./scatter/1/160s.png,Truncated Icosahedron,I_h,1.30443,0.161784,1.64825,0.510974,1.54084,C3,0.216769,C3
+161,./real/1/161r.png,./scatter/1/161s.png,Cuboctahedron,O_h,0.99819,0.778502,2.90668,0.733262,0.694757,C3,0.776208,C3
+162,./real/1/162r.png,./scatter/1/162s.png,Snub Cube,O,1.39319,3.09187,-2.77041,0.395017,1.0973,C2,0.528967,C2
+163,./real/1/163r.png,./scatter/1/163s.png,Decahedron,D_5h,0.328567,1.76107,2.43128,0.39004,1.7003,C2,0.43856,C2
+164,./real/1/164r.png,./scatter/1/164s.png,Rhombicosidodecahedron,I_h,1.92294,0.465226,2.72934,0.992524,0.511252,C5,0.626004,C5
+165,./real/1/165r.png,./scatter/1/165s.png,Truncated Dodecahedron,I_h,1.45904,-1.65151,-0.155817,0.989479,0.551185,C2,0.503482,C2
+166,./real/1/166r.png,./scatter/1/166s.png,Potato,None,1.11393,0.879346,1.85083,0.317755,,
+167,./real/1/167r.png,./scatter/1/167s.png,Truncated Dodecahedron,I_h,1.43349,0.939916,2.44642,0.833844,0.538709,C5,0.323529,C5
+168,./real/1/168r.png,./scatter/1/168s.png,Truncated Twinned Tetrahedron,C_6,2.6941,1.83683,1.32417,0.775498,0.919077,C6,0.909486,C6
+169,./real/1/169r.png,./scatter/1/169s.png,Tetrahedron,T_d,1.20438,1.21007,2.7824,0.390612,1.14422,C2,0.583248,C2
+170,./real/1/170r.png,./scatter/1/170s.png,Truncated Cube,O_h,1.08771,-1.76382,-2.50193,0.412901,1.61481,C2,0.997102,C2
+171,./real/1/171r.png,./scatter/1/171s.png,Rhombicosidodecahedron,I_h,2.60044,2.07827,-2.75855,0.913793,1.09434,C3,0.479231,C3
+172,./real/1/172r.png,./scatter/1/172s.png,Truncated Cuboctahedron,O_h,1.62917,-0.479136,2.87815,0.4961,1.44516,C3,0.997853,C3
+173,./real/1/173r.png,./scatter/1/173s.png,Octahedron,O_h,2.59522,-1.28094,-0.066791,0.981179,1.01918,C2,0.678428,C2
+174,./real/1/174r.png,./scatter/1/174s.png,Truncated Cube,O_h,1.52777,2.36123,0.696812,0.987784,0.55174,C2,0.95239,C2
+175,./real/1/175r.png,./scatter/1/175s.png,Truncated Cuboctahedron,O_h,1.37367,1.98432,-2.31357,0.839502,1.19118,C4,0.577061,C4
+176,./real/1/176r.png,./scatter/1/176s.png,Truncated Octahedron,O_h,1.96568,-0.221647,0.304543,0.696199,1.29215,C3,0.220725,C3
+177,./real/1/177r.png,./scatter/1/177s.png,Truncated Cube,O_h,1.8404,-1.34867,-1.5252,0.639568,0.522603,C2,0.885367,C2
+178,./real/1/178r.png,./scatter/1/178s.png,Sphere,SO(3),1.44145,0.74934,-0.143297,0.864602,0.712387,z,0.798741,z
+179,./real/1/179r.png,./scatter/1/179s.png,Cube,O_h,2.54376,-0.0059927,-1.55429,0.362373,1.65574,C4,0.507734,C4
+180,./real/1/180r.png,./scatter/1/180s.png,Icosidodecahedron,I_h,0.838996,-2.98375,-2.34364,0.472997,0.52619,C5,0.687802,C5
+181,./real/1/181r.png,./scatter/1/181s.png,Tetrahedron,T_d,1.16741,1.63522,1.99442,0.895252,1.117,C2,0.434044,C2
+182,./real/1/182r.png,./scatter/1/182s.png,Truncated Tetrahedron,T_d,1.28423,-2.078,-2.16838,0.459907,1.75722,C3,0.909575,C3
+183,./real/1/183r.png,./scatter/1/183s.png,Truncated Dodecahedron,I_h,1.0699,-3.04231,-0.511166,0.289225,0.938995,C2,0.510045,C2
+184,./real/1/184r.png,./scatter/1/184s.png,Cube,O_h,1.585,-2.69233,-1.4083,0.340941,1.89682,C2,0.635767,C2
+185,./real/1/185r.png,./scatter/1/185s.png,Octahedron,O_h,2.50462,-1.48619,1.5865,0.379513,1.71815,C2,0.960102,C2
+186,./real/1/186r.png,./scatter/1/186s.png,Snub Cube,O,1.59218,0.95008,0.37915,0.745898,1.12801,C3,0.991061,C3
+187,./real/1/187r.png,./scatter/1/187s.png,Truncated Twinned Tetrahedron,C_6,1.33092,0.382725,2.98943,0.690292,1.44866,C6,0.899116,C6
+188,./real/1/188r.png,./scatter/1/188s.png,Snub Cube,O,1.18235,-1.53788,2.43485,0.823653,0.57496,C4,0.684216,C4
+189,./real/1/189r.png,./scatter/1/189s.png,Snub Cube,O,0.712148,1.2033,-0.571724,0.257933,1.29898,C2,0.899393,C2
+190,./real/1/190r.png,./scatter/1/190s.png,Cube,O_h,1.26627,0.552094,-1.92931,0.761245,0.832256,C2,0.610033,C2
+191,./real/1/191r.png,./scatter/1/191s.png,Dodecahedron,I_h,0.414009,0.227477,0.541836,0.618849,1.6159,C5,0.653214,C5
+192,./real/1/192r.png,./scatter/1/192s.png,Cube,O_h,1.40297,0.370919,-1.86839,0.643308,0.87497,C3,0.365616,C3
+193,./real/1/193r.png,./scatter/1/193s.png,Cuboctahedron,O_h,0.470239,2.41417,2.1618,0.512047,1.30841,C3,0.656754,C3
+194,./real/1/194r.png,./scatter/1/194s.png,Truncated Tetrahedron,T_d,1.38568,2.93815,1.7183,0.735411,1.35978,C3,0.218767,C3
+195,./real/1/195r.png,./scatter/1/195s.png,Tetrahedron,T_d,2.62421,0.0779479,1.84185,0.979847,1.02057,C3,0.30442,C3
+196,./real/1/196r.png,./scatter/1/196s.png,Cuboctahedron,O_h,1.05147,1.66379,-3.01986,0.445633,0.743152,C2,0.42043,C2
+197,./real/1/197r.png,./scatter/1/197s.png,Dodecahedron,I_h,2.40183,-0.387044,-1.1916,0.753607,1.19471,C5,0.416706,C5
+198,./real/1/198r.png,./scatter/1/198s.png,Truncated Rhombicosidodecahedron,I_h,1.87159,2.3634,2.4193,0.250457,1.18303,C3,0.853474,C3
+199,./real/1/199r.png,./scatter/1/199s.png,Tetrahedron,T_d,0.610324,-0.535612,-0.389371,0.238838,1.10516,C3,0.467928,C3
+200,./real/1/200r.png,./scatter/1/200s.png,Truncated Cube,O_h,2.5413,-1.20956,-1.32465,0.270805,1.88122,C3,0.24492,C3
+201,./real/1/201r.png,./scatter/1/201s.png,Dodecahedron,I_h,0.95347,-2.25762,1.79176,0.844841,1.18366,C2,0.621855,C2
+202,./real/1/202r.png,./scatter/1/202s.png,Truncated Rhombicosidodecahedron,I_h,1.86202,2.73927,0.72704,0.333046,0.802894,C3,0.686382,C3
+203,./real/1/203r.png,./scatter/1/203s.png,Octahedron,O_h,0.701713,-1.16731,-1.65251,0.48617,0.589096,C4,0.605159,C4
+204,./real/1/204r.png,./scatter/1/204s.png,Truncated Icosahedron,I_h,2.06696,0.451562,0.441838,0.677257,0.57929,C5,0.253871,C5
+205,./real/1/205r.png,./scatter/1/205s.png,Dodecahedron,I_h,0.806672,1.04316,-2.83362,0.92098,1.0858,C5,0.220448,C5
+206,./real/1/206r.png,./scatter/1/206s.png,Truncated Tetrahedron,T_d,2.69475,0.477597,2.9267,0.787977,1.26907,C2,0.807363,C2
+207,./real/1/207r.png,./scatter/1/207s.png,Icosahedron,I_h,0.910498,1.20812,2.61164,0.835453,0.898921,C2,0.323819,C2
+208,./real/1/208r.png,./scatter/1/208s.png,Octahedron,O_h,1.60825,-0.103318,-1.03086,0.818146,0.602712,C4,0.670628,C4
+209,./real/1/209r.png,./scatter/1/209s.png,Decahedron,D_5h,1.2417,2.34805,-0.144614,0.297779,0.662475,C2,0.476167,C2
+210,./real/1/210r.png,./scatter/1/210s.png,Truncated Dodecahedron,I_h,2.47863,0.967923,-1.88244,0.487931,1.83356,C5,0.274118,C5
+211,./real/1/211r.png,./scatter/1/211s.png,Octahedron,O_h,2.76377,0.780986,0.0436503,0.837486,1.19405,C4,0.611983,C4
+212,./real/1/212r.png,./scatter/1/212s.png,Truncated Rhombicosidodecahedron,I_h,0.504028,2.89005,-2.03576,0.770604,1.29768,C5,0.773867,C5
+213,./real/1/213r.png,./scatter/1/213s.png,Snub Cube,O,1.34167,-1.50747,-1.15709,0.490311,1.05078,C3,0.845407,C3
+214,./real/1/214r.png,./scatter/1/214s.png,Snub Cube,O,0.541738,1.6077,2.06931,0.757173,1.05883,C3,0.864009,C3
+215,./real/1/215r.png,./scatter/1/215s.png,Cube,O_h,0.657009,-2.67778,-2.09131,0.677313,1.04687,C2,0.770943,C2
+216,./real/1/216r.png,./scatter/1/216s.png,Sphere,SO(3),1.87121,-0.795793,-2.94576,0.701486,1.42554,z,0.736395,z
+217,./real/1/217r.png,./scatter/1/217s.png,Sphere,SO(3),0.698926,3.13975,-2.24274,0.411933,1.32232,z,0.625587,z
+218,./real/1/218r.png,./scatter/1/218s.png,Decahedron,D_5h,0.835558,-0.799629,1.35518,0.970731,0.543018,C2,0.451828,C2
+219,./real/1/219r.png,./scatter/1/219s.png,Potato,None,1.9862,-1.27107,0.161264,0.207084,,
+220,./real/1/220r.png,./scatter/1/220s.png,Octahedron,O_h,1.29149,1.47132,1.92027,0.701745,1.42502,C2,0.799957,C2
+221,./real/1/221r.png,./scatter/1/221s.png,Truncated Rhombicosidodecahedron,I_h,2.62432,-2.28784,-2.5943,0.803416,0.831148,C5,0.234588,C5
+222,./real/1/222r.png,./scatter/1/222s.png,Truncated Octahedron,O_h,1.35539,1.63931,-1.70404,0.254175,1.14798,C3,0.221121,C3
+223,./real/1/223r.png,./scatter/1/223s.png,Sphere,SO(3),0.88677,-0.603622,-2.80916,0.274766,1.62324,z,0.828354,z
+224,./real/1/224r.png,./scatter/1/224s.png,Icosahedron,I_h,0.472725,-1.50463,2.9557,0.315044,1.45026,C5,0.444766,C5
+225,./real/1/225r.png,./scatter/1/225s.png,Cube,O_h,2.6729,-1.54093,-0.401584,0.370167,1.26139,C3,0.356023,C3
+226,./real/1/226r.png,./scatter/1/226s.png,Truncated Icosahedron,I_h,0.806843,-2.3272,0.238013,0.800961,1.2485,C2,0.533062,C2
+227,./real/1/227r.png,./scatter/1/227s.png,Cube,O_h,0.973888,-0.505014,2.13308,0.457417,1.17131,C3,0.710006,C3
+228,./real/1/228r.png,./scatter/1/228s.png,Truncated Dodecahedron,I_h,0.749544,0.348528,1.33994,0.767044,0.852779,C3,0.36468,C3
+229,./real/1/229r.png,./scatter/1/229s.png,Decahedron,D_5h,0.452112,-0.091933,1.71839,0.441819,0.838498,C2,0.772911,C2
+230,./real/1/230r.png,./scatter/1/230s.png,Icosidodecahedron,I_h,1.00998,-2.86184,-2.68318,0.417833,0.945902,C2,0.834851,C2
+231,./real/1/231r.png,./scatter/1/231s.png,Truncated Icosahedron,I_h,1.11018,1.20853,0.525693,0.88775,0.562306,C3,0.50875,C3
+232,./real/1/232r.png,./scatter/1/232s.png,Truncated Dodecahedron,I_h,1.98448,-2.38636,-0.176514,0.595393,1.67956,C2,0.27677,C2
+233,./real/1/233r.png,./scatter/1/233s.png,Truncated Octahedron,O_h,1.56307,-3.01435,0.278255,0.472145,1.62213,C3,0.641205,C3
+234,./real/1/234r.png,./scatter/1/234s.png,Rhombicuboctahedron,O_h,1.7597,-1.98178,0.00631462,0.703128,1.42222,C4,0.753838,C4
+235,./real/1/235r.png,./scatter/1/235s.png,Truncated Icosahedron,I_h,1.84055,-2.45969,-1.33126,0.972501,0.621234,C3,0.798675,C3
+236,./real/1/236r.png,./scatter/1/236s.png,Cuboctahedron,O_h,2.51879,2.11936,0.15439,0.301436,1.76793,C4,0.564539,C4
+237,./real/1/237r.png,./scatter/1/237s.png,Truncated Cube,O_h,1.88006,1.86742,-1.74211,0.218023,1.24416,C4,0.671533,C4
+238,./real/1/238r.png,./scatter/1/238s.png,Truncated Cuboctahedron,O_h,1.15761,3.0544,-0.00994468,0.537275,1.75375,C3,0.991735,C3
+239,./real/1/239r.png,./scatter/1/239s.png,Truncated Cube,O_h,1.18874,2.1828,-3.04702,0.265404,0.528017,C3,0.254713,C3
+240,./real/1/240r.png,./scatter/1/240s.png,Rhombicuboctahedron,O_h,1.0354,-0.318385,0.518972,0.253732,1.39957,C3,0.745921,C3
+241,./real/1/241r.png,./scatter/1/241s.png,Cube,O_h,2.90708,-1.27718,-1.45872,0.799754,1.25038,C2,0.702902,C2
+242,./real/1/242r.png,./scatter/1/242s.png,Truncated Icosahedron,I_h,1.34051,1.73682,-0.28984,0.561067,1.78232,C2,0.614146,C2
+243,./real/1/243r.png,./scatter/1/243s.png,Potato,None,1.04417,-2.47667,-1.58596,0.39976,,
+244,./real/1/244r.png,./scatter/1/244s.png,Truncated Rhombicosidodecahedron,I_h,2.19737,-2.67215,0.959942,0.607027,0.713816,C5,0.822668,C5
+245,./real/1/245r.png,./scatter/1/245s.png,Rhombicuboctahedron,O_h,2.73964,3.13262,-2.69525,0.47458,1.20175,C4,0.859524,C4
+246,./real/1/246r.png,./scatter/1/246s.png,Truncated Octahedron,O_h,1.35711,-2.56981,-1.2693,0.262614,1.37565,C2,0.591257,C2
+247,./real/1/247r.png,./scatter/1/247s.png,Truncated Dodecahedron,I_h,2.22144,0.19299,-1.36889,0.268245,1.86718,C5,0.349926,C5
+248,./real/1/248r.png,./scatter/1/248s.png,Truncated Octahedron,O_h,1.98019,1.07716,-0.320881,0.523828,1.24696,C2,0.230964,C2
+249,./real/1/249r.png,./scatter/1/249s.png,Octahedron,O_h,0.884815,0.340617,0.59128,0.459711,0.572576,C3,0.989201,C3
+250,./real/1/250r.png,./scatter/1/250s.png,Tetrahedron,T_d,2.44449,2.24057,0.177862,0.397804,1.93859,C3,0.623238,C3
+251,./real/1/251r.png,./scatter/1/251s.png,Tetrahedron,T_d,2.61315,-2.40054,-1.57146,0.822527,1.19722,C2,0.82418,C2
+252,./real/1/252r.png,./scatter/1/252s.png,Truncated Tetrahedron,T_d,1.37001,-1.73529,-2.1419,0.498241,1.4173,C3,0.234775,C3
+253,./real/1/253r.png,./scatter/1/253s.png,Rhombicosidodecahedron,I_h,2.41604,-0.276277,0.616327,0.684687,1.46052,C5,0.876324,C5
+254,./real/1/254r.png,./scatter/1/254s.png,Truncated Octahedron,O_h,0.711844,2.07864,0.968575,0.959997,1.04167,C4,0.228859,C4
+255,./real/1/255r.png,./scatter/1/255s.png,Truncated Cuboctahedron,O_h,0.560581,-0.136762,-0.41056,0.71331,1.40192,C3,0.5332,C3
+256,./real/1/256r.png,./scatter/1/256s.png,Sphere,SO(3),1.7145,-1.53396,-2.64035,0.48871,1.07906,z,0.852957,z
+257,./real/1/257r.png,./scatter/1/257s.png,Octahedron,O_h,0.894578,0.112764,-2.39627,0.716949,1.3948,C4,0.977302,C4
+258,./real/1/258r.png,./scatter/1/258s.png,Snub Cube,O,1.69975,0.65364,1.17998,0.754905,0.726627,C4,0.26556,C4
+259,./real/1/259r.png,./scatter/1/259s.png,Snub Cube,O,1.26584,-0.202516,0.462513,0.730363,1.36918,C4,0.857634,C4
+260,./real/1/260r.png,./scatter/1/260s.png,Cube,O_h,2.44038,-1.15626,2.51834,0.997467,0.771343,C3,0.800426,C3
+261,./real/1/261r.png,./scatter/1/261s.png,Rhombicosidodecahedron,I_h,1.40677,-1.49595,1.58588,0.637878,1.5677,C2,0.521673,C2
+262,./real/1/262r.png,./scatter/1/262s.png,Sphere,SO(3),1.70791,0.498731,-1.97539,0.278558,1.92574,z,0.754887,z
+263,./real/1/263r.png,./scatter/1/263s.png,Snub Cube,O,0.379587,1.41539,-0.668127,0.994245,1.00579,C3,0.882385,C3
+264,./real/1/264r.png,./scatter/1/264s.png,Truncated Dodecahedron,I_h,1.89596,-2.71336,2.37084,0.241328,1.66152,C5,0.360891,C5
+265,./real/1/265r.png,./scatter/1/265s.png,Rhombicuboctahedron,O_h,1.75255,0.728004,-1.77475,0.561873,1.77976,C4,0.409205,C4
+266,./real/1/266r.png,./scatter/1/266s.png,Truncated Icosahedron,I_h,0.928562,2.28674,-1.79113,0.327812,1.573,C3,0.532769,C3
+267,./real/1/267r.png,./scatter/1/267s.png,Icosahedron,I_h,0.998311,-1.56256,0.498094,0.265883,0.958835,C3,0.260459,C3
+268,./real/1/268r.png,./scatter/1/268s.png,Rhombicosidodecahedron,I_h,1.45025,1.00883,-2.86563,0.87134,1.14766,C3,0.396072,C3
+269,./real/1/269r.png,./scatter/1/269s.png,Truncated Twinned Tetrahedron,C_6,1.26086,0.28918,-1.04754,0.472651,1.09771,C2,0.283932,C2
+270,./real/1/270r.png,./scatter/1/270s.png,Truncated Twinned Tetrahedron,C_6,1.0285,1.12734,-1.40121,0.319142,1.79023,C2,0.80061,C2
+271,./real/1/271r.png,./scatter/1/271s.png,Rhombicosidodecahedron,I_h,1.0476,2.73465,-1.27073,0.466457,0.849749,C3,0.616614,C3
+272,./real/1/272r.png,./scatter/1/272s.png,Octahedron,O_h,1.3042,-2.61029,-0.495563,0.940077,1.06374,C2,0.668806,C2
+273,./real/1/273r.png,./scatter/1/273s.png,Cube,O_h,2.54733,-1.42004,1.79815,0.930204,1.07503,C3,0.835795,C3
+274,./real/1/274r.png,./scatter/1/274s.png,Truncated Cuboctahedron,O_h,1.82606,-2.76025,0.828204,0.508932,1.87474,C2,0.696971,C2
+275,./real/1/275r.png,./scatter/1/275s.png,Truncated Cuboctahedron,O_h,0.7102,-0.495272,2.05374,0.951609,0.98634,C3,0.54344,C3
+276,./real/1/276r.png,./scatter/1/276s.png,Cuboctahedron,O_h,1.89724,-0.477692,0.709118,0.856528,0.900438,C2,0.365407,C2
+277,./real/1/277r.png,./scatter/1/277s.png,Truncated Tetrahedron,T_d,1.35547,-2.07823,-0.0843706,0.781798,1.2791,C3,0.214608,C3
+278,./real/1/278r.png,./scatter/1/278s.png,Truncated Dodecahedron,I_h,1.40698,-0.839424,-0.912857,0.991617,1.00845,C2,0.554437,C2
+279,./real/1/279r.png,./scatter/1/279s.png,Dodecahedron,I_h,1.92211,-3.01217,-2.11976,0.433698,1.89278,C3,0.49113,C3
+280,./real/1/280r.png,./scatter/1/280s.png,Sphere,SO(3),2.06884,1.27752,1.15554,0.873849,1.14436,z,0.838762,z
+281,./real/1/281r.png,./scatter/1/281s.png,Truncated Cube,O_h,2.45768,0.401168,-3.03915,0.545129,1.62635,C3,0.280751,C3
+282,./real/1/282r.png,./scatter/1/282s.png,Potato,None,2.61142,1.24894,-2.75427,0.233389,,
+283,./real/1/283r.png,./scatter/1/283s.png,Truncated Cuboctahedron,O_h,1.56284,-0.268814,-1.72774,0.914244,1.0938,C2,0.626401,C2
+284,./real/1/284r.png,./scatter/1/284s.png,Truncated Rhombicosidodecahedron,I_h,1.22401,0.203943,0.992586,0.205238,1.40284,C3,0.473687,C3
+285,./real/1/285r.png,./scatter/1/285s.png,Sphere,SO(3),1.32504,-2.18084,1.60786,0.954134,1.04807,z,0.973068,z
+286,./real/1/286r.png,./scatter/1/286s.png,Truncated Icosahedron,I_h,2.02958,0.174274,2.91791,0.430445,0.814917,C3,0.801955,C3
+287,./real/1/287r.png,./scatter/1/287s.png,Potato,None,1.22201,-1.10932,1.31833,0.501743,,
+288,./real/1/288r.png,./scatter/1/288s.png,Truncated Dodecahedron,I_h,1.00398,-2.34278,-2.13971,0.772428,1.29462,C2,0.870894,C2
+289,./real/1/289r.png,./scatter/1/289s.png,Decahedron,D_5h,1.90531,-1.44481,1.20752,0.295492,1.06509,C2,0.853579,C2
+290,./real/1/290r.png,./scatter/1/290s.png,Truncated Rhombicosidodecahedron,I_h,3.00236,2.38389,1.8567,0.774799,0.752682,C2,0.953277,C2
+291,./real/1/291r.png,./scatter/1/291s.png,Snub Cube,O,1.57205,2.29875,0.150728,0.399455,1.53203,C2,0.313745,C2
+292,./real/1/292r.png,./scatter/1/292s.png,Truncated Rhombicosidodecahedron,I_h,2.04826,1.76492,-0.652942,0.53144,0.664642,C2,0.964376,C2
+293,./real/1/293r.png,./scatter/1/293s.png,Tetrahedron,T_d,2.75261,-2.19811,0.701686,0.893874,0.653563,C3,0.302737,C3
+294,./real/1/294r.png,./scatter/1/294s.png,Tetrahedron,T_d,2.50537,-2.39149,-3.03612,0.407815,1.89228,C2,0.478172,C2
+295,./real/1/295r.png,./scatter/1/295s.png,Octahedron,O_h,1.13722,-3.07536,2.56409,0.929647,0.609397,C4,0.482901,C4
+296,./real/1/296r.png,./scatter/1/296s.png,Tetrahedron,T_d,1.59735,0.608375,-1.7144,0.754742,0.805325,C2,0.260029,C2
+297,./real/1/297r.png,./scatter/1/297s.png,Potato,None,2.85478,-2.93862,-2.76848,0.320776,,
+298,./real/1/298r.png,./scatter/1/298s.png,Icosahedron,I_h,2.91206,-2.78582,-0.611176,0.379235,1.59885,C2,0.510816,C2
+299,./real/1/299r.png,./scatter/1/299s.png,Dodecahedron,I_h,1.63153,-1.43883,1.7826,0.824046,1.21352,C3,0.719731,C3
+300,./real/1/300r.png,./scatter/1/300s.png,Icosidodecahedron,I_h,0.724631,-2.99426,-0.496705,0.484825,1.1181,C5,0.685934,C5
+301,./real/1/301r.png,./scatter/1/301s.png,Truncated Cuboctahedron,O_h,1.66359,-2.18136,0.124744,0.733279,0.541259,C4,0.327175,C4
+302,./real/1/302r.png,./scatter/1/302s.png,Truncated Cube,O_h,2.61529,1.59265,-0.273822,0.789242,1.26704,C2,0.805714,C2
+303,./real/1/303r.png,./scatter/1/303s.png,Truncated Octahedron,O_h,0.768415,1.91756,0.664065,0.381215,1.00707,C3,0.574277,C3
+304,./real/1/304r.png,./scatter/1/304s.png,Decahedron,D_5h,1.95295,-0.609701,1.4848,0.208206,0.826111,C2,0.962176,C2
+305,./real/1/305r.png,./scatter/1/305s.png,Truncated Icosahedron,I_h,2.31739,2.04396,2.00667,0.595586,1.63434,C5,0.465679,C5
+306,./real/1/306r.png,./scatter/1/306s.png,Octahedron,O_h,2.92958,2.16426,2.56834,0.226715,0.825909,C3,0.46943,C3
+307,./real/1/307r.png,./scatter/1/307s.png,Truncated Octahedron,O_h,0.991987,-0.575416,-2.25375,0.749518,1.13987,C3,0.348804,C3
+308,./real/1/308r.png,./scatter/1/308s.png,Decahedron,D_5h,1.78269,-1.96151,-0.365153,0.304682,1.34094,C5,0.203334,C5
+309,./real/1/309r.png,./scatter/1/309s.png,Truncated Octahedron,O_h,0.432301,2.46501,0.238035,0.867237,1.15309,C4,0.366585,C4
+310,./real/1/310r.png,./scatter/1/310s.png,Decahedron,D_5h,1.89353,-2.83281,-2.80127,0.923194,0.846172,C5,0.38335,C5
+311,./real/1/311r.png,./scatter/1/311s.png,Truncated Octahedron,O_h,1.67925,2.05212,1.44941,0.601932,1.43876,C3,0.889896,C3
+312,./real/1/312r.png,./scatter/1/312s.png,Potato,None,2.31617,2.61469,0.229869,0.391102,,
+313,./real/1/313r.png,./scatter/1/313s.png,Icosidodecahedron,I_h,1.07778,-3.01817,-2.81947,0.475841,1.44669,C3,0.279641,C3
+314,./real/1/314r.png,./scatter/1/314s.png,Sphere,SO(3),2.88192,2.60935,-1.51478,0.493812,1.26748,z,0.445938,z
+315,./real/1/315r.png,./scatter/1/315s.png,Icosahedron,I_h,1.37164,2.81441,-2.74176,0.455594,1.43802,C3,0.320205,C3
+316,./real/1/316r.png,./scatter/1/316s.png,Truncated Dodecahedron,I_h,0.936264,-2.94076,0.502152,0.737273,0.591537,C3,0.513281,C3
+317,./real/1/317r.png,./scatter/1/317s.png,Truncated Icosahedron,I_h,1.82607,2.05686,3.0391,0.554021,1.80499,C5,0.215312,C5
+318,./real/1/318r.png,./scatter/1/318s.png,Truncated Rhombicosidodecahedron,I_h,2.73026,1.3088,-0.935636,0.778979,1.28373,C2,0.936426,C2
+319,./real/1/319r.png,./scatter/1/319s.png,Decahedron,D_5h,1.38451,0.505757,-2.09324,0.375274,1.88744,C2,0.830617,C2
+320,./real/1/320r.png,./scatter/1/320s.png,Truncated Cuboctahedron,O_h,1.98632,-1.81318,-1.33125,0.27441,1.85631,C4,0.623062,C4
+321,./real/1/321r.png,./scatter/1/321s.png,Rhombicosidodecahedron,I_h,0.615146,-1.79299,0.250608,0.641141,1.55972,C3,0.815002,C3
+322,./real/1/322r.png,./scatter/1/322s.png,Truncated Dodecahedron,I_h,1.85919,-2.72474,0.520398,0.646708,0.891226,C3,0.312873,C3
+323,./real/1/323r.png,./scatter/1/323s.png,Truncated Cube,O_h,2.47926,-1.58208,-2.27074,0.732701,0.66656,C2,0.764296,C2
+324,./real/1/324r.png,./scatter/1/324s.png,Truncated Cube,O_h,1.89756,-2.37491,2.9985,0.860378,0.78916,C2,0.796297,C2
+325,./real/1/325r.png,./scatter/1/325s.png,Truncated Octahedron,O_h,1.11603,1.9386,0.440797,0.415707,0.870622,C4,0.723469,C4
+326,./real/1/326r.png,./scatter/1/326s.png,Rhombicosidodecahedron,I_h,2.41998,-1.51557,2.56706,0.532116,1.3018,C2,0.637462,C2
+327,./real/1/327r.png,./scatter/1/327s.png,Rhombicosidodecahedron,I_h,0.940258,1.9023,1.78969,0.449367,1.25231,C3,0.66864,C3
+328,./real/1/328r.png,./scatter/1/328s.png,Sphere,SO(3),1.5256,-2.97159,0.662528,0.471214,1.30852,z,0.986764,z
+329,./real/1/329r.png,./scatter/1/329s.png,Truncated Octahedron,O_h,1.76316,2.43603,0.256786,0.726355,0.780245,C2,0.913245,C2
+330,./real/1/330r.png,./scatter/1/330s.png,Truncated Rhombicosidodecahedron,I_h,1.04405,-1.46892,-0.162962,0.222651,0.724105,C3,0.523226,C3
+331,./real/1/331r.png,./scatter/1/331s.png,Truncated Cuboctahedron,O_h,0.340949,1.85755,-0.51192,0.70236,1.42377,C2,0.523424,C2
+332,./real/1/332r.png,./scatter/1/332s.png,Truncated Cuboctahedron,O_h,1.94235,-1.40527,2.47911,0.608102,1.64446,C3,0.500858,C3
+333,./real/1/333r.png,./scatter/1/333s.png,Truncated Twinned Tetrahedron,C_6,2.08289,0.076385,-3.09976,0.506195,1.35824,C2,0.683763,C2
+334,./real/1/334r.png,./scatter/1/334s.png,Cube,O_h,2.39485,0.304122,0.221937,0.597806,1.1107,C4,0.939261,C4
+335,./real/1/335r.png,./scatter/1/335s.png,Potato,None,1.90618,0.964401,0.604507,0.384893,,
+336,./real/1/336r.png,./scatter/1/336s.png,Truncated Twinned Tetrahedron,C_6,2.0419,-0.842579,-2.14587,0.296359,1.62494,C2,0.805139,C2
+337,./real/1/337r.png,./scatter/1/337s.png,Icosidodecahedron,I_h,2.32373,0.591463,-0.502156,0.945068,1.05813,C2,0.754453,C2
+338,./real/1/338r.png,./scatter/1/338s.png,Decahedron,D_5h,1.73074,3.11369,1.05076,0.537255,1.16154,C5,0.997288,C5
+339,./real/1/339r.png,./scatter/1/339s.png,Snub Cube,O,0.974132,1.75448,-0.111912,0.210234,0.739052,C3,0.549661,C3
+340,./real/1/340r.png,./scatter/1/340s.png,Truncated Rhombicosidodecahedron,I_h,1.12177,-1.92403,-0.898602,0.995283,0.754925,C5,0.529308,C5
+341,./real/1/341r.png,./scatter/1/341s.png,Octahedron,O_h,1.90458,-0.697263,0.140243,0.551027,1.81479,C2,0.736924,C2
+342,./real/1/342r.png,./scatter/1/342s.png,Cube,O_h,1.29878,1.3373,1.09546,0.734161,0.569088,C3,0.245142,C3
+343,./real/1/343r.png,./scatter/1/343s.png,Potato,None,1.61441,-2.25213,-2.87084,0.553559,,
+344,./real/1/344r.png,./scatter/1/344s.png,Cuboctahedron,O_h,2.19297,1.34086,-2.30394,0.646567,0.856279,C3,0.807439,C3
+345,./real/1/345r.png,./scatter/1/345s.png,Icosidodecahedron,I_h,0.844532,-0.796385,0.0638209,0.672235,1.25303,C5,0.892664,C5
+346,./real/1/346r.png,./scatter/1/346s.png,Potato,None,0.136939,1.22463,1.33631,0.286325,,
+347,./real/1/347r.png,./scatter/1/347s.png,Rhombicuboctahedron,O_h,1.4254,1.79832,-3.0628,0.450855,1.6949,C4,0.474914,C4
+348,./real/1/348r.png,./scatter/1/348s.png,Potato,None,2.30898,2.16465,2.03747,0.669647,,
+349,./real/1/349r.png,./scatter/1/349s.png,Truncated Cube,O_h,1.43813,1.38024,-2.77234,0.911346,1.09728,C2,0.795787,C2
+350,./real/1/350r.png,./scatter/1/350s.png,Cube,O_h,1.49536,-0.839076,2.8649,0.757174,0.893022,C2,0.99697,C2
+351,./real/1/351r.png,./scatter/1/351s.png,Truncated Dodecahedron,I_h,1.89322,-1.17118,-0.841727,0.849595,1.17703,C5,0.943787,C5
+352,./real/1/352r.png,./scatter/1/352s.png,Decahedron,D_5h,2.92008,-2.50523,-0.849218,0.639521,1.56367,C5,0.518244,C5
+353,./real/1/353r.png,./scatter/1/353s.png,Potato,None,2.36793,-0.294801,-0.421213,0.818203,,
+354,./real/1/354r.png,./scatter/1/354s.png,Truncated Icosahedron,I_h,2.06583,-1.99796,-2.60835,0.711991,1.40451,C2,0.917836,C2
+355,./real/1/355r.png,./scatter/1/355s.png,Cube,O_h,2.53595,-2.65538,3.08976,0.605862,0.998486,C2,0.28002,C2
+356,./real/1/356r.png,./scatter/1/356s.png,Truncated Tetrahedron,T_d,2.07918,0.46514,-1.96096,0.446638,0.599286,C2,0.686077,C2
+357,./real/1/357r.png,./scatter/1/357s.png,Tetrahedron,T_d,1.85152,0.893813,2.44952,0.619122,0.526362,C2,0.403401,C2
+358,./real/1/358r.png,./scatter/1/358s.png,Sphere,SO(3),0.321077,-0.773948,-1.45155,0.327316,1.35235,z,0.325809,z
+359,./real/1/359r.png,./scatter/1/359s.png,Truncated Tetrahedron,T_d,2.55274,0.807772,-1.1563,0.694524,0.749405,C3,0.732198,C3
+360,./real/1/360r.png,./scatter/1/360s.png,Rhombicuboctahedron,O_h,1.99047,1.51802,-2.82741,0.348286,1.00494,C4,0.215241,C4
+361,./real/1/361r.png,./scatter/1/361s.png,Icosahedron,I_h,1.55563,-1.47611,-2.15951,0.209388,0.74165,C2,0.334157,C2
+362,./real/1/362r.png,./scatter/1/362s.png,Decahedron,D_5h,0.346365,-1.80329,-1.98168,0.676882,1.4428,C5,0.315714,C5
+363,./real/1/363r.png,./scatter/1/363s.png,Truncated Rhombicosidodecahedron,I_h,1.98734,1.87562,-0.512567,0.646469,1.11451,C3,0.303044,C3
+364,./real/1/364r.png,./scatter/1/364s.png,Octahedron,O_h,2.05721,2.60701,2.74544,0.41488,1.59644,C4,0.785376,C4
+365,./real/1/365r.png,./scatter/1/365s.png,Sphere,SO(3),0.55782,-1.69015,2.4969,0.694645,1.43958,z,0.94313,z
+366,./real/1/366r.png,./scatter/1/366s.png,Snub Cube,O,2.94629,0.137872,2.45046,0.408005,1.11557,C4,0.261682,C4
+367,./real/1/367r.png,./scatter/1/367s.png,Truncated Dodecahedron,I_h,1.57489,1.07772,0.678216,0.212311,0.645359,C3,0.96821,C3
+368,./real/1/368r.png,./scatter/1/368s.png,Potato,None,1.80557,1.64231,-0.271023,0.305645,,
+369,./real/1/369r.png,./scatter/1/369s.png,Potato,None,1.00262,-2.27976,-0.00823111,0.590327,,
+370,./real/1/370r.png,./scatter/1/370s.png,Truncated Icosahedron,I_h,0.968405,-1.31356,0.938327,0.77583,0.552693,C5,0.892819,C5
+371,./real/1/371r.png,./scatter/1/371s.png,Potato,None,2.75808,-0.994788,0.53915,0.359495,,
+372,./real/1/372r.png,./scatter/1/372s.png,Octahedron,O_h,1.87416,-2.99954,-3.0595,0.651387,1.38897,C4,0.76805,C4
+373,./real/1/373r.png,./scatter/1/373s.png,Truncated Rhombicosidodecahedron,I_h,2.55867,1.01756,0.803809,0.362165,1.65116,C3,0.639423,C3
+374,./real/1/374r.png,./scatter/1/374s.png,Cuboctahedron,O_h,1.81445,2.09671,-0.612021,0.208004,1.29984,C2,0.310649,C2
+375,./real/1/375r.png,./scatter/1/375s.png,Rhombicuboctahedron,O_h,1.97761,0.169666,1.1267,0.845673,0.921124,C4,0.285916,C4
+376,./real/1/376r.png,./scatter/1/376s.png,Truncated Rhombicosidodecahedron,I_h,1.54798,-1.64018,2.29605,0.746589,1.33942,C5,0.954727,C5
+377,./real/1/377r.png,./scatter/1/377s.png,Decahedron,D_5h,1.122,-2.63043,0.287868,0.303613,1.47206,C5,0.426984,C5
+378,./real/1/378r.png,./scatter/1/378s.png,Truncated Twinned Tetrahedron,C_6,1.43471,-1.63614,0.229048,0.253286,1.61741,C2,0.873862,C2
+379,./real/1/379r.png,./scatter/1/379s.png,Cube,O_h,1.45147,1.61104,0.559693,0.749893,1.33352,C2,0.709718,C2
+380,./real/1/380r.png,./scatter/1/380s.png,Truncated Twinned Tetrahedron,C_6,0.368142,2.14003,2.76924,0.800195,0.780586,C6,0.285658,C6
+381,./real/1/381r.png,./scatter/1/381s.png,Cuboctahedron,O_h,2.23676,-1.62149,-0.457159,0.379644,1.27183,C2,0.521197,C2
+382,./real/1/382r.png,./scatter/1/382s.png,Truncated Tetrahedron,T_d,1.61921,-3.07032,-0.0793099,0.622343,1.17873,C2,0.682315,C2
+383,./real/1/383r.png,./scatter/1/383s.png,Sphere,SO(3),1.33853,1.56141,-2.04408,0.77056,1.29776,z,0.736977,z
+384,./real/1/384r.png,./scatter/1/384s.png,Rhombicosidodecahedron,I_h,2.87721,-2.9307,1.89416,0.720516,1.31672,C3,0.803423,C3
+385,./real/1/385r.png,./scatter/1/385s.png,Truncated Tetrahedron,T_d,0.264886,-1.54302,1.35537,0.720746,0.614821,C2,0.691757,C2
+386,./real/1/386r.png,./scatter/1/386s.png,Truncated Cube,O_h,0.78761,1.03884,1.37636,0.30576,0.951216,C2,0.861281,C2
+387,./real/1/387r.png,./scatter/1/387s.png,Truncated Rhombicosidodecahedron,I_h,0.400443,3.13046,0.0817596,0.312072,1.55636,C3,0.664561,C3
+388,./real/1/388r.png,./scatter/1/388s.png,Cuboctahedron,O_h,0.603167,-2.78082,1.94078,0.948156,1.05468,C2,0.610844,C2
+389,./real/1/389r.png,./scatter/1/389s.png,Truncated Octahedron,O_h,1.37836,1.15898,0.651162,0.717245,1.13894,C3,0.871303,C3
+390,./real/1/390r.png,./scatter/1/390s.png,Truncated Cuboctahedron,O_h,0.928219,2.18721,2.2983,0.861365,1.16095,C2,0.593996,C2
+391,./real/1/391r.png,./scatter/1/391s.png,Cuboctahedron,O_h,2.23559,1.35148,2.01819,0.32863,0.80979,C2,0.514118,C2
+392,./real/1/392r.png,./scatter/1/392s.png,Truncated Twinned Tetrahedron,C_6,2.58962,-0.383352,-0.898481,0.458775,1.3118,C6,0.630888,C6
+393,./real/1/393r.png,./scatter/1/393s.png,Rhombicosidodecahedron,I_h,0.822263,2.52151,-1.18938,0.822395,0.794245,C2,0.616438,C2
+394,./real/1/394r.png,./scatter/1/394s.png,Snub Cube,O,1.74637,-0.106086,-2.01897,0.891086,1.12223,C2,0.341009,C2
+395,./real/1/395r.png,./scatter/1/395s.png,Dodecahedron,I_h,2.12648,-0.739359,1.93434,0.31704,1.30925,C3,0.396943,C3
+396,./real/1/396r.png,./scatter/1/396s.png,Tetrahedron,T_d,2.41504,2.30058,-2.03053,0.900277,1.11077,C3,0.501026,C3
+397,./real/1/397r.png,./scatter/1/397s.png,Truncated Rhombicosidodecahedron,I_h,0.418456,-2.65155,0.925593,0.734154,0.78102,C5,0.969039,C5
+398,./real/1/398r.png,./scatter/1/398s.png,Snub Cube,O,1.87853,0.4714,-0.904763,0.469626,1.08879,C3,0.945518,C3
+399,./real/1/399r.png,./scatter/1/399s.png,Snub Cube,O,1.54189,-2.42356,0.171429,0.989105,1.01102,C3,0.623421,C3
+400,./real/1/400r.png,./scatter/1/400s.png,Truncated Cube,O_h,2.02801,3.08941,1.08267,0.547967,1.39155,C2,0.884388,C2
+401,./real/1/401r.png,./scatter/1/401s.png,Rhombicosidodecahedron,I_h,2.33689,2.56396,-2.93894,0.872381,1.14629,C2,0.839722,C2
+402,./real/1/402r.png,./scatter/1/402s.png,Octahedron,O_h,2.93312,-3.0096,-2.99555,0.29268,1.45399,C2,0.770884,C2
+403,./real/1/403r.png,./scatter/1/403s.png,Dodecahedron,I_h,1.08023,-2.74394,0.301345,0.719267,1.3903,C5,0.992863,C5
+404,./real/1/404r.png,./scatter/1/404s.png,Rhombicuboctahedron,O_h,1.81753,-0.0988711,-0.703859,0.497097,0.885715,C4,0.610008,C4
+405,./real/1/405r.png,./scatter/1/405s.png,Sphere,SO(3),1.998,-1.18413,-1.87055,0.848428,1.00795,z,0.329791,z
+406,./real/1/406r.png,./scatter/1/406s.png,Cuboctahedron,O_h,1.17053,-1.14706,0.11502,0.260601,0.996585,C2,0.73242,C2
+407,./real/1/407r.png,./scatter/1/407s.png,Cuboctahedron,O_h,2.54183,-0.640661,1.09359,0.73318,1.36392,C2,0.206817,C2
+408,./real/1/408r.png,./scatter/1/408s.png,Truncated Cuboctahedron,O_h,1.23488,-1.60803,1.16135,0.639139,1.56461,C4,0.777418,C4
+409,./real/1/409r.png,./scatter/1/409s.png,Rhombicuboctahedron,O_h,1.0903,-2.9343,-2.50595,0.574583,1.33566,C4,0.688981,C4
+410,./real/1/410r.png,./scatter/1/410s.png,Truncated Octahedron,O_h,1.93997,1.33921,-2.52841,0.451125,0.616674,C2,0.741675,C2
+411,./real/1/411r.png,./scatter/1/411s.png,Sphere,SO(3),1.06891,0.274003,-1.13019,0.536414,1.76719,z,0.267017,z
+412,./real/1/412r.png,./scatter/1/412s.png,Icosidodecahedron,I_h,0.970876,1.49008,-0.0801276,0.71839,0.615284,C5,0.458078,C5
+413,./real/1/413r.png,./scatter/1/413s.png,Cube,O_h,0.306205,-2.19256,-0.885005,0.674302,1.48302,C3,0.755716,C3
+414,./real/1/414r.png,./scatter/1/414s.png,Sphere,SO(3),1.33822,0.628225,-1.50144,0.696149,1.43647,z,0.534065,z
+415,./real/1/415r.png,./scatter/1/415s.png,Truncated Tetrahedron,T_d,2.502,2.33379,-1.05406,0.882255,1.13346,C2,0.471066,C2
+416,./real/1/416r.png,./scatter/1/416s.png,Truncated Dodecahedron,I_h,0.9538,-0.473824,0.85056,0.317364,1.28886,C5,0.617038,C5
+417,./real/1/417r.png,./scatter/1/417s.png,Truncated Cube,O_h,2.97782,0.109977,1.40929,0.387064,1.3462,C2,0.881038,C2
+418,./real/1/418r.png,./scatter/1/418s.png,Sphere,SO(3),2.33924,3.00332,0.640892,0.517327,1.11924,z,0.493087,z
+419,./real/1/419r.png,./scatter/1/419s.png,Cube,O_h,1.16218,-0.680634,-1.63688,0.449696,1.81699,C4,0.367614,C4
+420,./real/1/420r.png,./scatter/1/420s.png,Truncated Octahedron,O_h,0.661196,2.1888,-1.26038,0.630072,1.58712,C2,0.943913,C2
+421,./real/1/421r.png,./scatter/1/421s.png,Snub Cube,O,0.959555,-0.578807,-0.458797,0.437157,1.48895,C3,0.247079,C3
+422,./real/1/422r.png,./scatter/1/422s.png,Dodecahedron,I_h,1.3006,0.60121,1.34589,0.912888,1.09542,C3,0.497447,C3
+423,./real/1/423r.png,./scatter/1/423s.png,Dodecahedron,I_h,0.682877,-0.985093,1.82008,0.267877,0.51565,C5,0.414052,C5
+424,./real/1/424r.png,./scatter/1/424s.png,Tetrahedron,T_d,2.69333,-3.03559,-0.0430009,0.690824,1.37685,C3,0.590492,C3
+425,./real/1/425r.png,./scatter/1/425s.png,Truncated Octahedron,O_h,0.857042,0.725698,2.89599,0.602217,1.52925,C3,0.582498,C3
+426,./real/1/426r.png,./scatter/1/426s.png,Truncated Rhombicosidodecahedron,I_h,2.24189,-0.493947,-2.3862,0.732167,1.36581,C3,0.732071,C3
+427,./real/1/427r.png,./scatter/1/427s.png,Decahedron,D_5h,1.79673,-2.76126,1.01775,0.590932,1.19013,C5,0.788761,C5
+428,./real/1/428r.png,./scatter/1/428s.png,Truncated Rhombicosidodecahedron,I_h,1.17578,-1.64246,-0.500359,0.38253,0.828549,C2,0.401684,C2
+429,./real/1/429r.png,./scatter/1/429s.png,Octahedron,O_h,1.50476,1.86114,2.11953,0.99405,1.00599,C3,0.625487,C3
+430,./real/1/430r.png,./scatter/1/430s.png,Rhombicuboctahedron,O_h,1.4821,0.815047,0.537269,0.705106,1.41823,C4,0.537255,C4
+431,./real/1/431r.png,./scatter/1/431s.png,Potato,None,0.852195,-0.738477,2.9053,0.976841,,
+432,./real/1/432r.png,./scatter/1/432s.png,Rhombicuboctahedron,O_h,2.68635,0.598683,-1.60825,0.345807,0.869537,C2,0.736361,C2
+433,./real/1/433r.png,./scatter/1/433s.png,Tetrahedron,T_d,2.34374,-0.791522,-2.33762,0.817329,1.2235,C2,0.493872,C2
+434,./real/1/434r.png,./scatter/1/434s.png,Dodecahedron,I_h,2.70929,-2.5001,-1.32955,0.623502,1.37846,C5,0.920766,C5
+435,./real/1/435r.png,./scatter/1/435s.png,Truncated Dodecahedron,I_h,1.48038,-1.07106,1.66108,0.515109,0.965816,C5,0.988927,C5
+436,./real/1/436r.png,./scatter/1/436s.png,Cuboctahedron,O_h,2.43432,3.06251,-0.385368,0.968165,1.03288,C4,0.897592,C4
+437,./real/1/437r.png,./scatter/1/437s.png,Octahedron,O_h,2.09218,-0.0785426,-1.50411,0.350335,1.43027,C3,0.493297,C3
+438,./real/1/438r.png,./scatter/1/438s.png,Sphere,SO(3),0.556104,-1.81116,-0.176315,0.817388,1.22341,z,0.265039,z
+439,./real/1/439r.png,./scatter/1/439s.png,Truncated Dodecahedron,I_h,1.67539,0.0553837,-0.911019,0.666293,1.03063,C3,0.755742,C3
+440,./real/1/440r.png,./scatter/1/440s.png,Icosidodecahedron,I_h,2.85054,1.66805,-1.51903,0.81273,1.17265,C5,0.387115,C5
+441,./real/1/441r.png,./scatter/1/441s.png,Truncated Dodecahedron,I_h,0.493331,-2.61862,0.481218,0.326136,0.523267,C3,0.920989,C3
+442,./real/1/442r.png,./scatter/1/442s.png,Truncated Tetrahedron,T_d,2.72372,-2.7474,-0.36923,0.921567,1.08511,C2,0.485138,C2
+443,./real/1/443r.png,./scatter/1/443s.png,Cube,O_h,0.952786,-0.773635,0.402295,0.645283,1.54971,C4,0.500758,C4
+444,./real/1/444r.png,./scatter/1/444s.png,Truncated Icosahedron,I_h,1.90805,0.543552,1.53605,0.955807,0.856273,C5,0.739649,C5
+445,./real/1/445r.png,./scatter/1/445s.png,Truncated Cube,O_h,1.94077,-0.316707,1.95338,0.559509,1.14674,C3,0.308148,C3
+446,./real/1/446r.png,./scatter/1/446s.png,Sphere,SO(3),1.51794,0.053011,1.29541,0.43881,0.537739,z,0.86392,z
+447,./real/1/447r.png,./scatter/1/447s.png,Rhombicuboctahedron,O_h,1.37684,2.32656,-1.07981,0.440577,1.89929,C2,0.341897,C2
+448,./real/1/448r.png,./scatter/1/448s.png,Tetrahedron,T_d,1.88262,-2.17713,2.55094,0.781401,0.664399,C2,0.981484,C2
+449,./real/1/449r.png,./scatter/1/449s.png,Tetrahedron,T_d,1.59829,-0.81847,-0.912079,0.413543,1.80194,C3,0.269719,C3
+450,./real/1/450r.png,./scatter/1/450s.png,Icosidodecahedron,I_h,1.45704,-1.34385,2.98179,0.813078,1.02897,C3,0.73614,C3
+451,./real/1/451r.png,./scatter/1/451s.png,Truncated Twinned Tetrahedron,C_6,1.83945,-0.930079,2.39935,0.676612,1.08263,C6,0.939139,C6
+452,./real/1/452r.png,./scatter/1/452s.png,Icosahedron,I_h,1.49136,-2.40905,2.06487,0.87314,1.14529,C2,0.5277,C2
+453,./real/1/453r.png,./scatter/1/453s.png,Truncated Cuboctahedron,O_h,2.04277,1.26682,-1.98793,0.560653,0.725809,C2,0.421941,C2
+454,./real/1/454r.png,./scatter/1/454s.png,Cube,O_h,1.03598,1.92592,-1.61069,0.428824,1.51163,C2,0.720701,C2
+455,./real/1/455r.png,./scatter/1/455s.png,Sphere,SO(3),1.75015,-2.62889,2.35916,0.81576,0.783618,z,0.343873,z
+456,./real/1/456r.png,./scatter/1/456s.png,Truncated Dodecahedron,I_h,0.910706,-2.22722,2.20515,0.705156,0.573367,C2,0.239361,C2
+457,./real/1/457r.png,./scatter/1/457s.png,Truncated Dodecahedron,I_h,1.37054,-2.77762,-0.0901693,0.723357,1.38244,C5,0.697119,C5
+458,./real/1/458r.png,./scatter/1/458s.png,Truncated Octahedron,O_h,0.408553,-1.17707,1.34108,0.707862,1.4127,C3,0.748944,C3
+459,./real/1/459r.png,./scatter/1/459s.png,Tetrahedron,T_d,1.35178,-0.180973,0.489211,0.361969,0.563524,C3,0.577432,C3
+460,./real/1/460r.png,./scatter/1/460s.png,Snub Cube,O,1.48083,-1.55788,1.45366,0.413288,1.79692,C4,0.33531,C4
+461,./real/1/461r.png,./scatter/1/461s.png,Truncated Cube,O_h,0.570444,-2.82747,0.331202,0.949942,1.0527,C4,0.954896,C4
+462,./real/1/462r.png,./scatter/1/462s.png,Icosahedron,I_h,1.56747,0.441041,-2.12029,0.633848,1.43108,C2,0.844507,C2
+463,./real/1/463r.png,./scatter/1/463s.png,Decahedron,D_5h,1.13571,-1.80321,-0.188423,0.37533,1.7373,C2,0.83615,C2
+464,./real/1/464r.png,./scatter/1/464s.png,Potato,None,1.55889,-0.619051,1.48919,0.750878,,
+465,./real/1/465r.png,./scatter/1/465s.png,Octahedron,O_h,0.907517,1.87943,-3.06212,0.599339,0.777838,C3,0.537225,C3
+466,./real/1/466r.png,./scatter/1/466s.png,Potato,None,1.19361,-2.80278,-0.35669,0.24039,,
+467,./real/1/467r.png,./scatter/1/467s.png,Rhombicuboctahedron,O_h,1.66499,-2.58355,-0.466851,0.704327,1.41979,C2,0.540467,C2
+468,./real/1/468r.png,./scatter/1/468s.png,Snub Cube,O,0.725069,1.21269,1.45942,0.450745,1.91704,C2,0.626187,C2
+469,./real/1/469r.png,./scatter/1/469s.png,Sphere,SO(3),1.44424,2.44388,-0.886684,0.452995,1.37299,z,0.229635,z
+470,./real/1/470r.png,./scatter/1/470s.png,Rhombicuboctahedron,O_h,1.52076,-0.725999,1.13918,0.949187,0.509537,C3,0.948358,C3
+471,./real/1/471r.png,./scatter/1/471s.png,Rhombicuboctahedron,O_h,1.93478,1.94583,1.8272,0.522679,0.593233,C4,0.653981,C4
+472,./real/1/472r.png,./scatter/1/472s.png,Tetrahedron,T_d,1.02974,-2.06681,0.531406,0.562187,0.982905,C2,0.634481,C2
+473,./real/1/473r.png,./scatter/1/473s.png,Rhombicosidodecahedron,I_h,1.87574,-2.20997,0.774191,0.680083,1.31811,C5,0.566168,C5
+474,./real/1/474r.png,./scatter/1/474s.png,Sphere,SO(3),1.06067,-0.11778,-1.64495,0.311781,1.8024,z,0.735507,z
+475,./real/1/475r.png,./scatter/1/475s.png,Potato,None,2.37823,-2.04442,-3.12087,0.546596,,
+476,./real/1/476r.png,./scatter/1/476s.png,Sphere,SO(3),1.03249,0.525084,-0.333959,0.220923,1.7275,z,0.567308,z
+477,./real/1/477r.png,./scatter/1/477s.png,Octahedron,O_h,1.59511,1.14542,2.27917,0.912966,1.09533,C4,0.729175,C4
+478,./real/1/478r.png,./scatter/1/478s.png,Truncated Twinned Tetrahedron,C_6,2.25513,-1.36137,-1.31919,0.89001,1.12358,C6,0.631562,C6
+479,./real/1/479r.png,./scatter/1/479s.png,Decahedron,D_5h,1.77428,1.55647,-1.19252,0.931553,1.07348,C5,0.201741,C5
+480,./real/1/480r.png,./scatter/1/480s.png,Truncated Twinned Tetrahedron,C_6,1.38337,1.61302,-1.14839,0.636187,0.626596,C2,0.928095,C2
+481,./real/1/481r.png,./scatter/1/481s.png,Sphere,SO(3),1.35694,1.60352,-2.54038,0.634755,1.57541,z,0.364678,z
+482,./real/1/482r.png,./scatter/1/482s.png,Truncated Cuboctahedron,O_h,1.32218,-2.19108,2.11901,0.796305,1.01556,C3,0.677652,C3
+483,./real/1/483r.png,./scatter/1/483s.png,Icosidodecahedron,I_h,1.26131,2.60778,-0.217305,0.851787,0.988603,C3,0.281953,C3
+484,./real/1/484r.png,./scatter/1/484s.png,Truncated Dodecahedron,I_h,0.488265,2.58646,2.25853,0.488241,1.72457,C3,0.228626,C3
+485,./real/1/485r.png,./scatter/1/485s.png,Truncated Twinned Tetrahedron,C_6,1.77515,-2.9492,-1.68712,0.762256,1.31189,C2,0.851579,C2
+486,./real/1/486r.png,./scatter/1/486s.png,Truncated Twinned Tetrahedron,C_6,2.30632,-0.330863,2.52646,0.86479,1.15635,C2,0.32716,C2
+487,./real/1/487r.png,./scatter/1/487s.png,Tetrahedron,T_d,1.69745,-1.42134,2.28679,0.945718,1.0574,C3,0.43011,C3
+488,./real/1/488r.png,./scatter/1/488s.png,Cube,O_h,1.49957,-2.29718,-2.69303,0.286638,1.20675,C4,0.671923,C4
+489,./real/1/489r.png,./scatter/1/489s.png,Rhombicuboctahedron,O_h,1.12276,1.70782,-0.209047,0.269497,1.79237,C2,0.805102,C2
+490,./real/1/490r.png,./scatter/1/490s.png,Potato,None,1.50628,-1.86194,2.56548,0.227991,,
+491,./real/1/491r.png,./scatter/1/491s.png,Truncated Rhombicosidodecahedron,I_h,0.764905,0.122808,-0.0170303,0.233172,1.14673,C5,0.402647,C5
+492,./real/1/492r.png,./scatter/1/492s.png,Cube,O_h,2.06466,1.64305,-1.7712,0.32993,0.977609,C2,0.216207,C2
+493,./real/1/493r.png,./scatter/1/493s.png,Truncated Twinned Tetrahedron,C_6,1.54247,0.55486,1.61435,0.898169,0.87936,C6,0.538431,C6
+494,./real/1/494r.png,./scatter/1/494s.png,Cuboctahedron,O_h,0.829634,1.88013,-1.37263,0.345836,1.8534,C4,0.587135,C4
+495,./real/1/495r.png,./scatter/1/495s.png,Potato,None,1.89524,-2.5511,0.979682,0.236892,,
+496,./real/1/496r.png,./scatter/1/496s.png,Cube,O_h,1.54472,2.83344,-0.376789,0.643249,0.818186,C3,0.698343,C3
+497,./real/1/497r.png,./scatter/1/497s.png,Truncated Dodecahedron,I_h,1.15615,-1.7639,-0.57462,0.570994,1.12828,C5,0.307551,C5
+498,./real/1/498r.png,./scatter/1/498s.png,Decahedron,D_5h,2.57198,-1.30364,-2.22104,0.84695,0.661319,C2,0.93547,C2
+499,./real/1/499r.png,./scatter/1/499s.png,Truncated Dodecahedron,I_h,1.46864,2.72819,1.83635,0.67853,1.47377,C5,0.864266,C5
+500,./real/1/500r.png,./scatter/1/500s.png,Truncated Cuboctahedron,O_h,2.04594,1.68538,-0.441722,0.382676,0.736362,C2,0.866603,C2
+501,./real/1/501r.png,./scatter/1/501s.png,Truncated Rhombicosidodecahedron,I_h,0.84969,2.54405,-1.02396,0.814026,0.884724,C3,0.808539,C3
+502,./real/1/502r.png,./scatter/1/502s.png,Truncated Icosahedron,I_h,2.68093,-1.26141,0.145601,0.943419,1.05997,C5,0.656915,C5
+503,./real/1/503r.png,./scatter/1/503s.png,Icosahedron,I_h,0.974301,1.22209,-1.36223,0.94114,0.523492,C5,0.47232,C5
+504,./real/1/504r.png,./scatter/1/504s.png,Rhombicuboctahedron,O_h,2.00816,-2.97968,-0.467381,0.600657,0.611765,C3,0.21144,C3
+505,./real/1/505r.png,./scatter/1/505s.png,Truncated Twinned Tetrahedron,C_6,1.60112,2.66439,1.19707,0.388277,1.72304,C2,0.6199,C2
+506,./real/1/506r.png,./scatter/1/506s.png,Octahedron,O_h,0.919667,1.0929,2.12771,0.592924,1.19144,C3,0.484712,C3
+507,./real/1/507r.png,./scatter/1/507s.png,Sphere,SO(3),1.75312,1.98797,-0.508463,0.871728,1.14715,z,0.682808,z
+508,./real/1/508r.png,./scatter/1/508s.png,Icosidodecahedron,I_h,1.14699,-0.40856,2.98166,0.250808,0.769331,C2,0.76363,C2
+509,./real/1/509r.png,./scatter/1/509s.png,Truncated Cuboctahedron,O_h,1.57847,-1.52866,2.50487,0.32327,1.83125,C4,0.544362,C4
+510,./real/1/510r.png,./scatter/1/510s.png,Truncated Dodecahedron,I_h,1.91338,2.0291,-0.958647,0.950388,1.0522,C5,0.678121,C5
+511,./real/1/511r.png,./scatter/1/511s.png,Icosidodecahedron,I_h,1.80289,-2.86184,-2.80238,0.39339,1.3618,C2,0.443836,C2
+512,./real/1/512r.png,./scatter/1/512s.png,Octahedron,O_h,2.01788,-1.12154,-2.79838,0.89739,1.11434,C2,0.827483,C2
+513,./real/1/513r.png,./scatter/1/513s.png,Snub Cube,O,2.39515,2.77553,-1.58265,0.963371,1.03802,C3,0.857807,C3
+514,./real/1/514r.png,./scatter/1/514s.png,Tetrahedron,T_d,0.348456,-1.64853,-0.840859,0.791765,1.07839,C3,0.331443,C3
+515,./real/1/515r.png,./scatter/1/515s.png,Snub Cube,O,1.75171,-2.65181,-0.597457,0.406365,0.68502,C2,0.966825,C2
+516,./real/1/516r.png,./scatter/1/516s.png,Truncated Twinned Tetrahedron,C_6,2.36156,0.289958,1.42474,0.918136,1.08916,C6,0.404303,C6
+517,./real/1/517r.png,./scatter/1/517s.png,Snub Cube,O,0.927365,-2.55601,0.614094,0.75335,0.843564,C4,0.471167,C4
+518,./real/1/518r.png,./scatter/1/518s.png,Octahedron,O_h,2.38464,-1.59547,-0.626721,0.549487,1.67328,C4,0.579571,C4
+519,./real/1/519r.png,./scatter/1/519s.png,Truncated Tetrahedron,T_d,2.53302,0.468655,0.394571,0.932648,1.07222,C3,0.319637,C3
+520,./real/1/520r.png,./scatter/1/520s.png,Rhombicuboctahedron,O_h,0.688807,1.19032,-2.59853,0.260978,0.513692,C3,0.281286,C3
+521,./real/1/521r.png,./scatter/1/521s.png,Truncated Rhombicosidodecahedron,I_h,0.953218,-1.17447,-1.77754,0.87103,0.612001,C5,0.513337,C5
+522,./real/1/522r.png,./scatter/1/522s.png,Truncated Dodecahedron,I_h,0.967134,2.07092,1.96185,0.21797,1.2161,C5,0.530006,C5
+523,./real/1/523r.png,./scatter/1/523s.png,Cube,O_h,1.21289,-2.96487,-0.928253,0.914006,1.09409,C3,0.902411,C3
+524,./real/1/524r.png,./scatter/1/524s.png,Truncated Cube,O_h,2.36955,1.85846,1.63579,0.987205,1.01296,C3,0.64791,C3
+525,./real/1/525r.png,./scatter/1/525s.png,Truncated Rhombicosidodecahedron,I_h,0.527033,-2.77798,0.267174,0.339144,1.36975,C5,0.596765,C5
+526,./real/1/526r.png,./scatter/1/526s.png,Icosidodecahedron,I_h,1.1937,0.757872,-3.10784,0.727984,0.94974,C2,0.276767,C2
+527,./real/1/527r.png,./scatter/1/527s.png,Icosahedron,I_h,0.930283,-2.8071,-0.381523,0.425534,1.53195,C3,0.345398,C3
+528,./real/1/528r.png,./scatter/1/528s.png,Truncated Cuboctahedron,O_h,0.868225,-0.487675,-1.44698,0.842004,0.767956,C2,0.907012,C2
+529,./real/1/529r.png,./scatter/1/529s.png,Truncated Tetrahedron,T_d,1.69713,-2.26941,-0.0135162,0.858483,0.970901,C2,0.533718,C2
+530,./real/1/530r.png,./scatter/1/530s.png,Snub Cube,O,3.01186,-2.33186,-2.18861,0.838797,1.19218,C2,0.670032,C2
+531,./real/1/531r.png,./scatter/1/531s.png,Truncated Twinned Tetrahedron,C_6,2.07989,0.170212,2.48713,0.294535,0.593152,C6,0.327417,C6
+532,./real/1/532r.png,./scatter/1/532s.png,Truncated Rhombicosidodecahedron,I_h,2.44375,2.78032,1.85686,0.306153,1.95073,C2,0.828077,C2
+533,./real/1/533r.png,./scatter/1/533s.png,Truncated Cuboctahedron,O_h,2.23958,-2.33177,-0.745426,0.579791,1.39086,C3,0.434863,C3
+534,./real/1/534r.png,./scatter/1/534s.png,Truncated Octahedron,O_h,1.23065,0.536001,0.0131845,0.886767,1.12769,C3,0.59534,C3
+535,./real/1/535r.png,./scatter/1/535s.png,Truncated Octahedron,O_h,0.266956,-0.244528,-0.712107,0.984904,1.01176,C4,0.304267,C4
+536,./real/1/536r.png,./scatter/1/536s.png,Truncated Rhombicosidodecahedron,I_h,0.969412,-2.98048,-1.20088,0.73525,0.741918,C5,0.561335,C5
+537,./real/1/537r.png,./scatter/1/537s.png,Truncated Icosahedron,I_h,1.29606,2.76461,1.80311,0.884336,1.13079,C5,0.528777,C5
+538,./real/1/538r.png,./scatter/1/538s.png,Dodecahedron,I_h,0.912355,1.11012,2.03449,0.563355,0.832337,C3,0.476947,C3
+539,./real/1/539r.png,./scatter/1/539s.png,Truncated Icosahedron,I_h,1.21468,1.31671,-2.78368,0.495305,1.48296,C3,0.902502,C3
+540,./real/1/540r.png,./scatter/1/540s.png,Truncated Icosahedron,I_h,2.06887,2.33977,0.172524,0.465932,0.817846,C5,0.859605,C5
+541,./real/1/541r.png,./scatter/1/541s.png,Cuboctahedron,O_h,1.45595,-1.94963,2.51684,0.36335,1.63164,C2,0.893649,C2
+542,./real/1/542r.png,./scatter/1/542s.png,Truncated Rhombicosidodecahedron,I_h,1.01422,-1.08071,-1.19619,0.34095,0.840722,C2,0.458134,C2
+543,./real/1/543r.png,./scatter/1/543s.png,Tetrahedron,T_d,0.613764,1.95143,-2.55845,0.597546,0.690738,C2,0.362881,C2
+544,./real/1/544r.png,./scatter/1/544s.png,Truncated Octahedron,O_h,1.1008,2.07608,2.50563,0.558951,1.14726,C3,0.417174,C3
+545,./real/1/545r.png,./scatter/1/545s.png,Decahedron,D_5h,2.50569,-0.953947,2.40496,0.660875,0.975033,C5,0.539016,C5
+546,./real/1/546r.png,./scatter/1/546s.png,Icosahedron,I_h,2.04735,1.8681,2.07188,0.422443,1.8503,C5,0.416762,C5
+547,./real/1/547r.png,./scatter/1/547s.png,Truncated Cube,O_h,0.969791,1.61397,2.15295,0.843852,1.18504,C3,0.695868,C3
+548,./real/1/548r.png,./scatter/1/548s.png,Potato,None,1.27542,2.70342,3.09755,0.527706,,
+549,./real/1/549r.png,./scatter/1/549s.png,Truncated Cuboctahedron,O_h,0.390285,1.56803,-0.0605007,0.843036,1.18619,C3,0.377035,C3
+550,./real/1/550r.png,./scatter/1/550s.png,Tetrahedron,T_d,2.37851,2.17438,-2.18681,0.711657,1.03991,C2,0.582351,C2
+551,./real/1/551r.png,./scatter/1/551s.png,Cuboctahedron,O_h,2.17739,-1.90535,-3.05389,0.685478,1.45884,C3,0.504513,C3
+552,./real/1/552r.png,./scatter/1/552s.png,Sphere,SO(3),0.756492,1.77311,-2.85051,0.852712,1.17273,z,0.899805,z
+553,./real/1/553r.png,./scatter/1/553s.png,Rhombicuboctahedron,O_h,0.826627,-1.87444,-2.98973,0.507061,1.58696,C3,0.931649,C3
+554,./real/1/554r.png,./scatter/1/554s.png,Rhombicuboctahedron,O_h,1.04212,-1.59456,0.53618,0.584271,1.71153,C3,0.292283,C3
+555,./real/1/555r.png,./scatter/1/555s.png,Truncated Icosahedron,I_h,2.35431,-2.06964,1.44964,0.273203,0.578571,C2,0.445914,C2
+556,./real/1/556r.png,./scatter/1/556s.png,Sphere,SO(3),1.69342,0.39725,1.92264,0.5249,0.757102,z,0.564537,z
+557,./real/1/557r.png,./scatter/1/557s.png,Tetrahedron,T_d,0.979084,0.452672,1.7101,0.827488,1.20848,C2,0.793606,C2
+558,./real/1/558r.png,./scatter/1/558s.png,Truncated Icosahedron,I_h,2.56417,0.852234,-2.7869,0.320999,1.81867,C5,0.542049,C5
+559,./real/1/559r.png,./scatter/1/559s.png,Cuboctahedron,O_h,1.46252,0.117312,-2.72769,0.693885,0.958337,C4,0.380275,C4
+560,./real/1/560r.png,./scatter/1/560s.png,Truncated Cuboctahedron,O_h,2.79421,-2.52494,-0.38201,0.204412,1.67211,C4,0.768996,C4
+561,./real/1/561r.png,./scatter/1/561s.png,Snub Cube,O,2.55112,2.66914,2.15154,0.898062,1.11351,C3,0.268139,C3
+562,./real/1/562r.png,./scatter/1/562s.png,Truncated Octahedron,O_h,2.413,1.59168,-1.53527,0.626436,1.59633,C2,0.824454,C2
+563,./real/1/563r.png,./scatter/1/563s.png,Cuboctahedron,O_h,1.49552,0.0041547,-1.17751,0.990473,0.671936,C3,0.9259,C3
+564,./real/1/564r.png,./scatter/1/564s.png,Truncated Cuboctahedron,O_h,2.17221,2.55509,-2.98856,0.620444,0.95924,C3,0.954464,C3
+565,./real/1/565r.png,./scatter/1/565s.png,Decahedron,D_5h,2.87477,-2.13335,-1.40547,0.759494,0.629145,C2,0.548481,C2
+566,./real/1/566r.png,./scatter/1/566s.png,Cuboctahedron,O_h,2.40107,1.02931,2.89951,0.81968,1.21999,C4,0.416876,C4
+567,./real/1/567r.png,./scatter/1/567s.png,Snub Cube,O,1.5966,-1.79047,1.90891,0.686368,1.17961,C4,0.937075,C4
+568,./real/1/568r.png,./scatter/1/568s.png,Icosidodecahedron,I_h,0.997861,-1.49125,2.732,0.810918,1.23317,C5,0.766683,C5
+569,./real/1/569r.png,./scatter/1/569s.png,Truncated Rhombicosidodecahedron,I_h,0.873714,-2.09774,-0.523465,0.8868,0.769551,C2,0.995024,C2
+570,./real/1/570r.png,./scatter/1/570s.png,Decahedron,D_5h,1.68507,-1.23934,-0.638393,0.658432,0.835024,C2,0.383057,C2
+571,./real/1/571r.png,./scatter/1/571s.png,Truncated Rhombicosidodecahedron,I_h,1.11894,1.36878,-1.91664,0.736019,1.03501,C2,0.91923,C2
+572,./real/1/572r.png,./scatter/1/572s.png,Snub Cube,O,0.220526,-1.02999,-0.396858,0.405874,1.45383,C2,0.691777,C2
+573,./real/1/573r.png,./scatter/1/573s.png,Sphere,SO(3),2.95675,0.166378,-2.73471,0.273551,0.627237,z,0.448781,z
+574,./real/1/574r.png,./scatter/1/574s.png,Octahedron,O_h,1.91107,-1.46873,-2.90634,0.448373,1.01983,C4,0.429008,C4
+575,./real/1/575r.png,./scatter/1/575s.png,Rhombicosidodecahedron,I_h,2.07749,3.09642,-0.113503,0.270977,1.08844,C3,0.628953,C3
+576,./real/1/576r.png,./scatter/1/576s.png,Octahedron,O_h,2.35412,-2.40041,-2.62456,0.3808,0.570769,C2,0.265209,C2
+577,./real/1/577r.png,./scatter/1/577s.png,Tetrahedron,T_d,2.1191,-2.81441,1.4126,0.242359,1.21634,C2,0.335619,C2
+578,./real/1/578r.png,./scatter/1/578s.png,Tetrahedron,T_d,1.5345,0.100416,1.76555,0.963507,1.03788,C3,0.954834,C3
+579,./real/1/579r.png,./scatter/1/579s.png,Cuboctahedron,O_h,0.922482,-3.0892,2.11167,0.616178,1.51202,C3,0.432541,C3
+580,./real/1/580r.png,./scatter/1/580s.png,Truncated Rhombicosidodecahedron,I_h,1.36347,2.7939,1.54157,0.53446,1.6672,C3,0.770235,C3
+581,./real/1/581r.png,./scatter/1/581s.png,Truncated Cube,O_h,1.59744,1.18574,-1.91343,0.659466,0.671278,C3,0.324735,C3
+582,./real/1/582r.png,./scatter/1/582s.png,Truncated Rhombicosidodecahedron,I_h,0.402269,2.68875,0.989541,0.690338,1.34488,C5,0.746997,C5
+583,./real/1/583r.png,./scatter/1/583s.png,Truncated Cube,O_h,1.11044,-1.7814,0.313415,0.338188,1.67097,C2,0.772528,C2
+584,./real/1/584r.png,./scatter/1/584s.png,Truncated Tetrahedron,T_d,1.25686,-1.91989,-0.974371,0.998606,1.0014,C2,0.709732,C2
+585,./real/1/585r.png,./scatter/1/585s.png,Tetrahedron,T_d,1.29338,-2.32686,0.631823,0.256759,0.883907,C3,0.810557,C3
+586,./real/1/586r.png,./scatter/1/586s.png,Cube,O_h,0.79918,-1.00146,-2.40414,0.645472,1.10777,C4,0.966911,C4
+587,./real/1/587r.png,./scatter/1/587s.png,Octahedron,O_h,1.27935,-1.92415,-1.49608,0.591609,1.26496,C2,0.676183,C2
+588,./real/1/588r.png,./scatter/1/588s.png,Icosahedron,I_h,1.72658,1.08396,2.18302,0.959569,0.641436,C5,0.435949,C5
+589,./real/1/589r.png,./scatter/1/589s.png,Truncated Cuboctahedron,O_h,0.833148,0.731934,-1.4679,0.538906,0.627539,C4,0.208854,C4
+590,./real/1/590r.png,./scatter/1/590s.png,Decahedron,D_5h,2.6036,-0.0295513,-2.50965,0.573076,0.643731,C5,0.706126,C5
+591,./real/1/591r.png,./scatter/1/591s.png,Truncated Cube,O_h,2.12437,0.221733,-1.08211,0.459179,0.518654,C2,0.492037,C2
+592,./real/1/592r.png,./scatter/1/592s.png,Truncated Cube,O_h,0.528518,0.638519,1.6109,0.980925,1.01945,C4,0.725212,C4
+593,./real/1/593r.png,./scatter/1/593s.png,Icosidodecahedron,I_h,2.6789,0.176587,2.8183,0.280275,0.762631,C2,0.927101,C2
+594,./real/1/594r.png,./scatter/1/594s.png,Truncated Octahedron,O_h,0.554542,2.99047,-1.61139,0.358887,1.3565,C4,0.567377,C4
+595,./real/1/595r.png,./scatter/1/595s.png,Truncated Tetrahedron,T_d,0.5101,2.39619,1.29337,0.989375,0.684267,C3,0.36557,C3
+596,./real/1/596r.png,./scatter/1/596s.png,Truncated Cuboctahedron,O_h,1.93597,1.94307,2.47586,0.97987,1.02054,C2,0.329486,C2
+597,./real/1/597r.png,./scatter/1/597s.png,Octahedron,O_h,1.39616,0.443798,1.56289,0.543862,1.8387,C3,0.995575,C3
+598,./real/1/598r.png,./scatter/1/598s.png,Cuboctahedron,O_h,2.68025,2.66848,-1.34303,0.443804,0.694019,C3,0.59763,C3
+599,./real/1/599r.png,./scatter/1/599s.png,Rhombicuboctahedron,O_h,2.03659,-1.96114,-0.914446,0.451023,0.530629,C4,0.589962,C4
+600,./real/1/600r.png,./scatter/1/600s.png,Truncated Tetrahedron,T_d,1.89829,1.76651,-3.09324,0.975785,1.02482,C2,0.74256,C2
+601,./real/1/601r.png,./scatter/1/601s.png,Truncated Cuboctahedron,O_h,1.73916,-2.34765,0.625197,0.936789,0.813216,C2,0.578142,C2
+602,./real/1/602r.png,./scatter/1/602s.png,Snub Cube,O,1.625,-1.79353,2.63556,0.316446,0.877206,C3,0.24501,C3
+603,./real/1/603r.png,./scatter/1/603s.png,Truncated Icosahedron,I_h,2.32452,-2.1456,-3.09828,0.405871,0.653513,C5,0.212315,C5
+604,./real/1/604r.png,./scatter/1/604s.png,Tetrahedron,T_d,2.07166,-1.31372,2.95139,0.900925,1.10997,C3,0.419705,C3
+605,./real/1/605r.png,./scatter/1/605s.png,Truncated Tetrahedron,T_d,1.31747,0.872499,-2.19042,0.203396,1.41849,C2,0.630517,C2
+606,./real/1/606r.png,./scatter/1/606s.png,Truncated Twinned Tetrahedron,C_6,2.5326,-1.78093,-2.22554,0.442367,1.36816,C6,0.698936,C6
+607,./real/1/607r.png,./scatter/1/607s.png,Icosidodecahedron,I_h,1.57231,-2.77096,-1.88046,0.993499,1.00654,C5,0.823284,C5
+608,./real/1/608r.png,./scatter/1/608s.png,Octahedron,O_h,1.96178,1.82257,-0.108613,0.337665,1.13769,C2,0.573346,C2
+609,./real/1/609r.png,./scatter/1/609s.png,Truncated Dodecahedron,I_h,1.08641,0.392024,-0.613047,0.898196,1.11334,C2,0.720093,C2
+610,./real/1/610r.png,./scatter/1/610s.png,Truncated Cuboctahedron,O_h,2.40862,-1.19903,-0.390766,0.872838,0.82729,C3,0.829126,C3
+611,./real/1/611r.png,./scatter/1/611s.png,Truncated Cube,O_h,2.7551,2.52915,-1.33876,0.746055,0.687288,C4,0.342364,C4
+612,./real/1/612r.png,./scatter/1/612s.png,Truncated Twinned Tetrahedron,C_6,1.17312,-1.72565,0.204424,0.43279,1.0184,C2,0.908492,C2
+613,./real/1/613r.png,./scatter/1/613s.png,Truncated Icosahedron,I_h,2.73463,1.98245,0.758477,0.710552,1.40736,C2,0.367883,C2
+614,./real/1/614r.png,./scatter/1/614s.png,Truncated Tetrahedron,T_d,2.48884,0.943138,2.07217,0.278755,0.77573,C3,0.719601,C3
+615,./real/1/615r.png,./scatter/1/615s.png,Truncated Tetrahedron,T_d,1.64225,-0.296216,-1.13388,0.978787,1.02167,C3,0.909901,C3
+616,./real/1/616r.png,./scatter/1/616s.png,Cube,O_h,1.70772,-2.25259,-2.67599,0.712122,0.907162,C2,0.629587,C2
+617,./real/1/617r.png,./scatter/1/617s.png,Truncated Icosahedron,I_h,1.29157,-1.17799,-1.59852,0.708865,1.15839,C2,0.707102,C2
+618,./real/1/618r.png,./scatter/1/618s.png,Snub Cube,O,2.72338,0.628415,2.55389,0.948395,1.05441,C3,0.599567,C3
+619,./real/1/619r.png,./scatter/1/619s.png,Truncated Twinned Tetrahedron,C_6,1.32751,-0.898405,1.69569,0.933217,1.07156,C6,0.282338,C6
+620,./real/1/620r.png,./scatter/1/620s.png,Snub Cube,O,1.48015,1.38935,0.295011,0.956846,0.509425,C3,0.417215,C3
+621,./real/1/621r.png,./scatter/1/621s.png,Icosahedron,I_h,0.550318,-2.09811,-2.13129,0.446859,1.87172,C3,0.897049,C3
+622,./real/1/622r.png,./scatter/1/622s.png,Cube,O_h,1.68349,1.51348,-0.329438,0.269785,1.94269,C3,0.593228,C3
+623,./real/1/623r.png,./scatter/1/623s.png,Decahedron,D_5h,1.424,-2.02827,1.58063,0.904499,0.74881,C5,0.734402,C5
+624,./real/1/624r.png,./scatter/1/624s.png,Truncated Dodecahedron,I_h,1.81665,0.791985,-1.05968,0.744412,1.31727,C5,0.226642,C5
+625,./real/1/625r.png,./scatter/1/625s.png,Snub Cube,O,1.43371,1.6522,1.97814,0.824207,1.21329,C3,0.83232,C3
+626,./real/1/626r.png,./scatter/1/626s.png,Truncated Rhombicosidodecahedron,I_h,1.58878,-0.846282,0.587402,0.963275,0.58499,C2,0.7863,C2
+627,./real/1/627r.png,./scatter/1/627s.png,Truncated Cube,O_h,0.34286,-1.01838,-2.44,0.892871,1.08049,C4,0.259393,C4
+628,./real/1/628r.png,./scatter/1/628s.png,Truncated Cuboctahedron,O_h,0.553082,-2.98468,2.56749,0.689385,1.45057,C3,0.691869,C3
+629,./real/1/629r.png,./scatter/1/629s.png,Rhombicuboctahedron,O_h,1.46043,-2.91217,0.941351,0.311605,0.644104,C2,0.246412,C2
+630,./real/1/630r.png,./scatter/1/630s.png,Decahedron,D_5h,1.28987,2.36704,-0.468857,0.679476,0.687896,C5,0.554654,C5
+631,./real/1/631r.png,./scatter/1/631s.png,Icosahedron,I_h,0.778175,-0.035395,1.11601,0.835716,0.647837,C2,0.728372,C2
+632,./real/1/632r.png,./scatter/1/632s.png,Dodecahedron,I_h,1.5411,1.44832,-1.09509,0.404792,1.32314,C3,0.555323,C3
+633,./real/1/633r.png,./scatter/1/633s.png,Truncated Octahedron,O_h,2.22012,2.46317,-0.721751,0.714423,0.686908,C3,0.566401,C3
+634,./real/1/634r.png,./scatter/1/634s.png,Dodecahedron,I_h,2.08194,-2.22949,2.07206,0.384644,1.43352,C2,0.31355,C2
+635,./real/1/635r.png,./scatter/1/635s.png,Cuboctahedron,O_h,2.54475,-1.86685,-2.69192,0.5422,1.43998,C2,0.821677,C2
+636,./real/1/636r.png,./scatter/1/636s.png,Potato,None,1.04222,-2.67603,-2.61995,0.959708,,
+637,./real/1/637r.png,./scatter/1/637s.png,Tetrahedron,T_d,1.18301,-2.47182,0.747371,0.410351,0.99017,C3,0.365073,C3
+638,./real/1/638r.png,./scatter/1/638s.png,Icosahedron,I_h,2.97216,-2.23804,-0.157404,0.548908,1.8218,C3,0.823146,C3
+639,./real/1/639r.png,./scatter/1/639s.png,Truncated Cube,O_h,1.43578,2.33786,-1.26205,0.659885,1.51541,C2,0.419448,C2
+640,./real/1/640r.png,./scatter/1/640s.png,Truncated Icosahedron,I_h,0.291577,0.967009,-1.13771,0.768844,1.30065,C2,0.351979,C2
+641,./real/1/641r.png,./scatter/1/641s.png,Rhombicosidodecahedron,I_h,1.17389,1.66719,0.422553,0.518599,1.92154,C5,0.984387,C5
+642,./real/1/642r.png,./scatter/1/642s.png,Dodecahedron,I_h,1.93235,-2.13222,1.51925,0.555958,0.915606,C3,0.534644,C3
+643,./real/1/643r.png,./scatter/1/643s.png,Snub Cube,O,2.93342,2.17607,0.501691,0.72552,1.37832,C3,0.585415,C3
+644,./real/1/644r.png,./scatter/1/644s.png,Truncated Octahedron,O_h,1.24078,-1.56449,-2.10714,0.949235,1.05348,C2,0.843649,C2
+645,./real/1/645r.png,./scatter/1/645s.png,Truncated Dodecahedron,I_h,1.9506,-2.77239,1.62692,0.246823,1.78676,C5,0.334487,C5
+646,./real/1/646r.png,./scatter/1/646s.png,Truncated Tetrahedron,T_d,1.77666,-0.0429939,-0.12587,0.258211,1.97379,C2,0.715893,C2
+647,./real/1/647r.png,./scatter/1/647s.png,Cube,O_h,1.50526,-2.67492,2.77993,0.976375,0.95912,C3,0.440508,C3
+648,./real/1/648r.png,./scatter/1/648s.png,Truncated Rhombicosidodecahedron,I_h,1.88205,2.32378,0.0659192,0.543048,0.553656,C5,0.229538,C5
+649,./real/1/649r.png,./scatter/1/649s.png,Truncated Dodecahedron,I_h,1.56928,-0.22251,2.19867,0.929625,1.0757,C5,0.738914,C5
+650,./real/1/650r.png,./scatter/1/650s.png,Dodecahedron,I_h,1.28605,0.364074,-1.86719,0.771599,1.29198,C2,0.640375,C2
+651,./real/1/651r.png,./scatter/1/651s.png,Truncated Octahedron,O_h,1.63048,2.82739,1.25213,0.81276,0.936814,C3,0.528283,C3
+652,./real/1/652r.png,./scatter/1/652s.png,Truncated Tetrahedron,T_d,2.11404,2.66517,-2.68081,0.908967,1.10015,C3,0.954962,C3
+653,./real/1/653r.png,./scatter/1/653s.png,Dodecahedron,I_h,1.4202,0.385939,0.966915,0.23038,1.32384,C3,0.833383,C3
+654,./real/1/654r.png,./scatter/1/654s.png,Truncated Cube,O_h,2.09439,1.2803,1.53599,0.667516,0.520052,C4,0.245989,C4
+655,./real/1/655r.png,./scatter/1/655s.png,Truncated Cube,O_h,2.2004,2.98947,1.21503,0.973586,1.02713,C4,0.610367,C4
+656,./real/1/656r.png,./scatter/1/656s.png,Cuboctahedron,O_h,2.84342,3.02245,-0.785452,0.97009,1.03083,C4,0.709098,C4
+657,./real/1/657r.png,./scatter/1/657s.png,Truncated Cube,O_h,0.397555,-2.47203,-1.92123,0.278153,1.89199,C4,0.581979,C4
+658,./real/1/658r.png,./scatter/1/658s.png,Truncated Rhombicosidodecahedron,I_h,0.958116,2.67756,2.35499,0.542166,0.981806,C5,0.57404,C5
+659,./real/1/659r.png,./scatter/1/659s.png,Snub Cube,O,1.15217,1.81069,2.39457,0.635655,0.964226,C4,0.595831,C4
+660,./real/1/660r.png,./scatter/1/660s.png,Icosidodecahedron,I_h,1.04013,-1.41322,1.08622,0.408812,1.45433,C5,0.454946,C5
+661,./real/1/661r.png,./scatter/1/661s.png,Octahedron,O_h,1.29418,0.465042,1.08959,0.623656,1.49525,C3,0.699983,C3
+662,./real/1/662r.png,./scatter/1/662s.png,Truncated Icosahedron,I_h,0.0341879,0.403632,2.77525,0.619218,1.43063,C5,0.716306,C5
+663,./real/1/663r.png,./scatter/1/663s.png,Octahedron,O_h,1.86107,-1.24265,1.63385,0.439313,1.48495,C4,0.485124,C4
+664,./real/1/664r.png,./scatter/1/664s.png,Decahedron,D_5h,2.20017,2.90023,-2.99538,0.8352,1.19732,C5,0.290522,C5
+665,./real/1/665r.png,./scatter/1/665s.png,Truncated Dodecahedron,I_h,2.66536,2.76663,-1.49512,0.628822,1.14388,C2,0.242891,C2
+666,./real/1/666r.png,./scatter/1/666s.png,Truncated Tetrahedron,T_d,1.33467,1.04978,-1.61177,0.894703,1.11769,C3,0.457594,C3
+667,./real/1/667r.png,./scatter/1/667s.png,Tetrahedron,T_d,1.33474,1.10257,-3.13122,0.733965,1.36246,C2,0.571382,C2
+668,./real/1/668r.png,./scatter/1/668s.png,Rhombicosidodecahedron,I_h,1.14024,-0.324326,1.06335,0.386414,0.826095,C5,0.478472,C5
+669,./real/1/669r.png,./scatter/1/669s.png,Potato,None,2.70014,1.48953,-2.09189,0.254742,,
+670,./real/1/670r.png,./scatter/1/670s.png,Icosidodecahedron,I_h,0.8119,2.55753,0.397887,0.232136,1.18615,C3,0.865052,C3
+671,./real/1/671r.png,./scatter/1/671s.png,Truncated Cube,O_h,1.16047,-0.175536,1.72205,0.361422,0.535088,C3,0.950747,C3
+672,./real/1/672r.png,./scatter/1/672s.png,Truncated Cube,O_h,2.59156,-1.66347,-2.24799,0.292774,0.674399,C2,0.615544,C2
+673,./real/1/673r.png,./scatter/1/673s.png,Snub Cube,O,2.40059,-2.94292,2.40676,0.770225,1.29832,C4,0.466795,C4
+674,./real/1/674r.png,./scatter/1/674s.png,Sphere,SO(3),2.08693,0.734889,-1.58209,0.607461,1.36725,z,0.284473,z
+675,./real/1/675r.png,./scatter/1/675s.png,Dodecahedron,I_h,1.06816,-2.73889,-2.07875,0.829939,1.03745,C3,0.524335,C3
+676,./real/1/676r.png,./scatter/1/676s.png,Dodecahedron,I_h,1.31182,1.715,-3.1342,0.538173,1.65694,C2,0.873353,C2
+677,./real/1/677r.png,./scatter/1/677s.png,Truncated Rhombicosidodecahedron,I_h,1.60733,-0.95166,-2.13874,0.417041,0.987771,C5,0.801571,C5
+678,./real/1/678r.png,./scatter/1/678s.png,Truncated Octahedron,O_h,0.197855,2.70218,2.01413,0.772885,1.29385,C2,0.93182,C2
+679,./real/1/679r.png,./scatter/1/679s.png,Octahedron,O_h,1.0814,0.695444,-0.954769,0.545455,1.83333,C3,0.688461,C3
+680,./real/1/680r.png,./scatter/1/680s.png,Octahedron,O_h,2.89895,-2.20422,-0.0146534,0.726502,0.550874,C2,0.32686,C2
+681,./real/1/681r.png,./scatter/1/681s.png,Truncated Icosahedron,I_h,1.38611,1.82375,-3.11815,0.740058,1.25568,C5,0.954337,C5
+682,./real/1/682r.png,./scatter/1/682s.png,Icosidodecahedron,I_h,2.44832,1.29869,3.1415,0.420754,0.796288,C5,0.646476,C5
+683,./real/1/683r.png,./scatter/1/683s.png,Truncated Dodecahedron,I_h,1.03761,0.324316,-0.45248,0.799396,1.16923,C5,0.638211,C5
+684,./real/1/684r.png,./scatter/1/684s.png,Icosidodecahedron,I_h,1.47168,1.58607,-2.61723,0.755314,1.32395,C2,0.524635,C2
+685,./real/1/685r.png,./scatter/1/685s.png,Potato,None,2.39327,-2.36463,-1.96476,0.48728,,
+686,./real/1/686r.png,./scatter/1/686s.png,Truncated Cube,O_h,0.0631178,3.03708,2.52249,0.785807,0.585555,C2,0.290265,C2
+687,./real/1/687r.png,./scatter/1/687s.png,Icosidodecahedron,I_h,1.2516,0.916645,-1.43416,0.872614,1.14598,C3,0.817885,C3
+688,./real/1/688r.png,./scatter/1/688s.png,Truncated Twinned Tetrahedron,C_6,2.37455,1.23823,-3.12882,0.962968,0.853723,C2,0.662056,C2
+689,./real/1/689r.png,./scatter/1/689s.png,Rhombicosidodecahedron,I_h,1.11121,-2.98169,-0.665763,0.37035,1.52402,C3,0.234576,C3
+690,./real/1/690r.png,./scatter/1/690s.png,Truncated Icosahedron,I_h,1.50734,-1.90355,-1.48927,0.477968,1.24641,C3,0.391881,C3
+691,./real/1/691r.png,./scatter/1/691s.png,Truncated Dodecahedron,I_h,1.98882,1.31757,-0.636765,0.340149,1.05158,C2,0.391273,C2
+692,./real/1/692r.png,./scatter/1/692s.png,Potato,None,1.50254,-1.01345,-1.20678,0.951911,,
+693,./real/1/693r.png,./scatter/1/693s.png,Rhombicuboctahedron,O_h,1.77309,-2.81622,0.135434,0.449526,0.959442,C2,0.805698,C2
+694,./real/1/694r.png,./scatter/1/694s.png,Icosahedron,I_h,0.929287,-0.993833,2.72617,0.633475,1.57671,C5,0.497856,C5
+695,./real/1/695r.png,./scatter/1/695s.png,Dodecahedron,I_h,0.984613,0.693393,-1.57318,0.32,1.42015,C5,0.877583,C5
+696,./real/1/696r.png,./scatter/1/696s.png,Dodecahedron,I_h,2.2752,-2.30641,2.65325,0.935857,1.06854,C5,0.336153,C5
+697,./real/1/697r.png,./scatter/1/697s.png,Icosahedron,I_h,1.44103,-2.24385,1.88896,0.795717,1.25673,C5,0.914155,C5
+698,./real/1/698r.png,./scatter/1/698s.png,Truncated Octahedron,O_h,0.748756,-1.63647,1.13635,0.669233,1.15506,C2,0.229635,C2
+699,./real/1/699r.png,./scatter/1/699s.png,Truncated Cube,O_h,2.14017,2.27115,-1.36028,0.387058,1.19509,C2,0.669371,C2
+700,./real/1/700r.png,./scatter/1/700s.png,Rhombicuboctahedron,O_h,0.411552,0.954504,3.00899,0.468305,1.58244,C4,0.301731,C4
+701,./real/1/701r.png,./scatter/1/701s.png,Cuboctahedron,O_h,1.12323,-0.535566,0.615667,0.875425,0.940387,C3,0.566747,C3
+702,./real/1/702r.png,./scatter/1/702s.png,Icosidodecahedron,I_h,1.63749,-1.46604,-2.43821,0.241833,1.93073,C2,0.687421,C2
+703,./real/1/703r.png,./scatter/1/703s.png,Rhombicosidodecahedron,I_h,0.89077,-1.79265,-1.46644,0.593998,0.912755,C3,0.254638,C3
+704,./real/1/704r.png,./scatter/1/704s.png,Truncated Dodecahedron,I_h,0.615303,3.03059,2.81769,0.953282,1.04901,C5,0.496288,C5
+705,./real/1/705r.png,./scatter/1/705s.png,Rhombicosidodecahedron,I_h,2.77588,-1.0324,1.58986,0.438346,1.62924,C3,0.820469,C3
+706,./real/1/706r.png,./scatter/1/706s.png,Icosidodecahedron,I_h,0.788166,0.911146,2.49493,0.675129,0.8042,C5,0.244339,C5
+707,./real/1/707r.png,./scatter/1/707s.png,Dodecahedron,I_h,1.49342,2.21482,-2.62321,0.331601,1.64892,C3,0.609931,C3
+708,./real/1/708r.png,./scatter/1/708s.png,Sphere,SO(3),1.46608,-0.682779,-0.297115,0.927786,0.778109,z,0.642038,z
+709,./real/1/709r.png,./scatter/1/709s.png,Snub Cube,O,2.41798,-2.58086,-2.44003,0.349603,1.58492,C4,0.301282,C4
+710,./real/1/710r.png,./scatter/1/710s.png,Potato,None,1.67469,3.12766,-2.76431,0.606712,,
+711,./real/1/711r.png,./scatter/1/711s.png,Cube,O_h,1.52213,2.14639,1.29336,0.385125,1.76298,C3,0.450894,C3
+712,./real/1/712r.png,./scatter/1/712s.png,Cuboctahedron,O_h,0.825623,-2.44979,-0.636161,0.285179,0.916712,C2,0.926895,C2
+713,./real/1/713r.png,./scatter/1/713s.png,Dodecahedron,I_h,1.32851,-1.47527,0.17584,0.258614,0.738294,C5,0.398981,C5
+714,./real/1/714r.png,./scatter/1/714s.png,Truncated Cube,O_h,1.66615,1.07163,-1.26328,0.571272,1.68324,C2,0.934816,C2
+715,./real/1/715r.png,./scatter/1/715s.png,Truncated Cuboctahedron,O_h,1.1851,3.12935,0.444868,0.387405,1.64286,C2,0.667531,C2
+716,./real/1/716r.png,./scatter/1/716s.png,Truncated Octahedron,O_h,0.363737,-1.00942,2.1111,0.66489,1.00617,C3,0.911388,C3
+717,./real/1/717r.png,./scatter/1/717s.png,Truncated Octahedron,O_h,1.71323,1.31363,-1.1741,0.289204,0.571458,C2,0.443418,C2
+718,./real/1/718r.png,./scatter/1/718s.png,Truncated Octahedron,O_h,2.02963,-1.72329,-1.44596,0.329972,0.896058,C4,0.42769,C4
+719,./real/1/719r.png,./scatter/1/719s.png,Icosidodecahedron,I_h,2.29705,0.175446,2.78861,0.297775,1.69995,C5,0.710225,C5
+720,./real/1/720r.png,./scatter/1/720s.png,Potato,None,1.45377,1.41281,-1.64895,0.776933,,
+721,./real/1/721r.png,./scatter/1/721s.png,Truncated Cuboctahedron,O_h,1.54845,-0.245767,0.401243,0.478051,1.83893,C4,0.412759,C4
+722,./real/1/722r.png,./scatter/1/722s.png,Tetrahedron,T_d,1.4041,-2.71134,2.97762,0.96645,1.03471,C3,0.54336,C3
+723,./real/1/723r.png,./scatter/1/723s.png,Truncated Rhombicosidodecahedron,I_h,2.5818,0.920942,0.920433,0.99243,1.00763,C3,0.806785,C3
+724,./real/1/724r.png,./scatter/1/724s.png,Icosidodecahedron,I_h,2.60725,-1.77905,-0.622131,0.588072,1.70047,C2,0.742988,C2
+725,./real/1/725r.png,./scatter/1/725s.png,Decahedron,D_5h,0.418579,0.192708,3.13855,0.670912,1.49051,C2,0.664758,C2
+726,./real/1/726r.png,./scatter/1/726s.png,Snub Cube,O,2.3813,-0.736554,-2.31695,0.253537,1.35424,C4,0.543933,C4
+727,./real/1/727r.png,./scatter/1/727s.png,Decahedron,D_5h,1.15316,-1.78245,-0.194768,0.801895,0.724809,C2,0.417822,C2
+728,./real/1/728r.png,./scatter/1/728s.png,Dodecahedron,I_h,2.34628,1.91837,0.409832,0.824245,0.533314,C2,0.634115,C2
+729,./real/1/729r.png,./scatter/1/729s.png,Octahedron,O_h,2.86664,-1.11415,0.451076,0.690278,1.08945,C3,0.388365,C3
+730,./real/1/730r.png,./scatter/1/730s.png,Truncated Dodecahedron,I_h,0.943788,-0.418517,-0.228459,0.718661,1.39148,C5,0.803903,C5
+731,./real/1/731r.png,./scatter/1/731s.png,Truncated Twinned Tetrahedron,C_6,1.43969,0.0665996,-2.54532,0.268561,0.86546,C6,0.315285,C6
+732,./real/1/732r.png,./scatter/1/732s.png,Cube,O_h,2.52717,3.08618,-1.59437,0.794103,0.556643,C2,0.557852,C2
+733,./real/1/733r.png,./scatter/1/733s.png,Truncated Octahedron,O_h,0.697852,-2.6628,1.40017,0.495308,1.75228,C4,0.783545,C4
+734,./real/1/734r.png,./scatter/1/734s.png,Truncated Octahedron,O_h,0.940163,0.187882,-1.54353,0.940975,0.546672,C4,0.693645,C4
+735,./real/1/735r.png,./scatter/1/735s.png,Octahedron,O_h,1.74152,-2.98345,-1.40602,0.676604,0.57048,C4,0.743738,C4
+736,./real/1/736r.png,./scatter/1/736s.png,Truncated Dodecahedron,I_h,1.40757,-0.0689669,-1.70144,0.551424,1.8114,C5,0.259964,C5
+737,./real/1/737r.png,./scatter/1/737s.png,Tetrahedron,T_d,2.46133,-2.44993,-2.55622,0.25053,1.32415,C2,0.783112,C2
+738,./real/1/738r.png,./scatter/1/738s.png,Sphere,SO(3),2.16274,-2.30722,3.04556,0.342387,0.578447,z,0.777411,z
+739,./real/1/739r.png,./scatter/1/739s.png,Snub Cube,O,2.05977,0.0903612,1.44121,0.666791,1.49972,C4,0.38316,C4
+740,./real/1/740r.png,./scatter/1/740s.png,Cube,O_h,1.36105,1.62426,-2.25657,0.981418,1.01893,C2,0.81586,C2
+741,./real/1/741r.png,./scatter/1/741s.png,Truncated Dodecahedron,I_h,1.17159,-2.8507,0.566592,0.289575,1.15793,C3,0.488084,C3
+742,./real/1/742r.png,./scatter/1/742s.png,Sphere,SO(3),1.13323,1.53229,-1.72858,0.501956,1.90921,z,0.376362,z
+743,./real/1/743r.png,./scatter/1/743s.png,Dodecahedron,I_h,1.18847,-0.895172,0.887033,0.855069,1.1695,C3,0.954849,C3
+744,./real/1/744r.png,./scatter/1/744s.png,Truncated Cube,O_h,2.05986,-2.8741,-1.8245,0.510847,0.662023,C3,0.858554,C3
+745,./real/1/745r.png,./scatter/1/745s.png,Decahedron,D_5h,0.647453,-2.46329,-0.449087,0.536342,1.54612,C2,0.64302,C2
+746,./real/1/746r.png,./scatter/1/746s.png,Icosahedron,I_h,1.34788,-0.82863,1.55524,0.635929,0.636015,C2,0.980097,C2
+747,./real/1/747r.png,./scatter/1/747s.png,Truncated Cube,O_h,2.68085,-0.347595,-1.05875,0.300276,0.613149,C2,0.554807,C2
+748,./real/1/748r.png,./scatter/1/748s.png,Sphere,SO(3),1.76084,0.834365,-3.02115,0.721595,1.38582,z,0.248225,z
+749,./real/1/749r.png,./scatter/1/749s.png,Snub Cube,O,1.49805,2.5947,0.721461,0.722031,1.38498,C2,0.727917,C2
+750,./real/1/750r.png,./scatter/1/750s.png,Truncated Tetrahedron,T_d,2.59452,2.95703,2.45575,0.738396,1.35429,C3,0.238668,C3
+751,./real/1/751r.png,./scatter/1/751s.png,Tetrahedron,T_d,0.787946,-0.56845,-1.96587,0.471117,0.713773,C2,0.516552,C2
+752,./real/1/752r.png,./scatter/1/752s.png,Tetrahedron,T_d,1.5561,-0.596006,2.39434,0.214732,1.05462,C2,0.290104,C2
+753,./real/1/753r.png,./scatter/1/753s.png,Tetrahedron,T_d,1.9419,2.40182,-0.658183,0.353481,1.82732,C2,0.50599,C2
+754,./real/1/754r.png,./scatter/1/754s.png,Truncated Octahedron,O_h,1.6329,2.18278,-2.13998,0.440098,1.96458,C2,0.797708,C2
+755,./real/1/755r.png,./scatter/1/755s.png,Truncated Cuboctahedron,O_h,1.17221,2.17582,3.03512,0.354214,1.68483,C4,0.723771,C4
+756,./real/1/756r.png,./scatter/1/756s.png,Truncated Icosahedron,I_h,1.34817,2.55371,-2.43682,0.290568,1.05297,C2,0.476931,C2
+757,./real/1/757r.png,./scatter/1/757s.png,Rhombicosidodecahedron,I_h,2.26085,3.09017,-0.417104,0.754353,1.32564,C3,0.776791,C3
+758,./real/1/758r.png,./scatter/1/758s.png,Icosidodecahedron,I_h,2.37177,1.92206,0.318219,0.818864,0.965147,C5,0.560375,C5
+759,./real/1/759r.png,./scatter/1/759s.png,Truncated Cube,O_h,1.07328,-1.57582,0.419845,0.343447,1.67709,C3,0.470692,C3
+760,./real/1/760r.png,./scatter/1/760s.png,Rhombicuboctahedron,O_h,2.14682,-0.0764529,0.565012,0.407075,1.4882,C3,0.351629,C3
+761,./real/1/761r.png,./scatter/1/761s.png,Dodecahedron,I_h,1.12108,3.08804,-2.74693,0.702384,1.31637,C2,0.55021,C2
+762,./real/1/762r.png,./scatter/1/762s.png,Icosidodecahedron,I_h,2.40455,1.23671,1.93254,0.896861,1.115,C2,0.442868,C2
+763,./real/1/763r.png,./scatter/1/763s.png,Truncated Rhombicosidodecahedron,I_h,2.12926,-0.206736,-2.28012,0.562116,1.29281,C3,0.589121,C3
+764,./real/1/764r.png,./scatter/1/764s.png,Rhombicosidodecahedron,I_h,1.90942,1.21163,-1.43721,0.673332,1.48515,C5,0.734059,C5
+765,./real/1/765r.png,./scatter/1/765s.png,Cuboctahedron,O_h,0.290623,2.71715,-2.83976,0.79066,1.17806,C3,0.327109,C3
+766,./real/1/766r.png,./scatter/1/766s.png,Rhombicosidodecahedron,I_h,0.98957,1.79602,-1.38736,0.541829,0.97705,C2,0.924274,C2
+767,./real/1/767r.png,./scatter/1/767s.png,Truncated Dodecahedron,I_h,0.897836,2.00331,-1.6884,0.999002,0.662754,C3,0.509995,C3
+768,./real/1/768r.png,./scatter/1/768s.png,Truncated Twinned Tetrahedron,C_6,2.32546,-0.806169,-0.580547,0.411025,1.88855,C6,0.58416,C6
+769,./real/1/769r.png,./scatter/1/769s.png,Snub Cube,O,0.810429,3.05967,-2.4108,0.899112,1.11221,C4,0.294959,C4
+770,./real/1/770r.png,./scatter/1/770s.png,Cuboctahedron,O_h,0.414788,0.240295,1.07457,0.278697,1.49214,C4,0.971272,C4
+771,./real/1/771r.png,./scatter/1/771s.png,Truncated Twinned Tetrahedron,C_6,0.949029,-2.42657,-0.445592,0.693066,0.528875,C6,0.711386,C6
+772,./real/1/772r.png,./scatter/1/772s.png,Sphere,SO(3),1.48158,-0.218297,0.178974,0.632407,0.744503,z,0.240484,z
+773,./real/1/773r.png,./scatter/1/773s.png,Dodecahedron,I_h,2.23871,0.620046,-0.223403,0.317766,1.33558,C3,0.682729,C3
+774,./real/1/774r.png,./scatter/1/774s.png,Octahedron,O_h,1.48993,-1.81363,0.0379615,0.296878,1.08138,C2,0.496504,C2
+775,./real/1/775r.png,./scatter/1/775s.png,Truncated Twinned Tetrahedron,C_6,1.17795,-2.8111,1.92345,0.318926,1.31996,C2,0.697098,C2
+776,./real/1/776r.png,./scatter/1/776s.png,Truncated Dodecahedron,I_h,1.8102,-3.10343,-1.87167,0.328434,0.779548,C3,0.200845,C3
+777,./real/1/777r.png,./scatter/1/777s.png,Icosahedron,I_h,1.86588,2.84397,2.03645,0.615488,0.948752,C2,0.314585,C2
+778,./real/1/778r.png,./scatter/1/778s.png,Truncated Octahedron,O_h,2.4881,-1.79652,0.793742,0.304504,0.534766,C4,0.731939,C4
+779,./real/1/779r.png,./scatter/1/779s.png,Truncated Twinned Tetrahedron,C_6,1.63139,-2.09666,-1.30465,0.569522,0.578572,C2,0.474825,C2
+780,./real/1/780r.png,./scatter/1/780s.png,Potato,None,1.55324,2.75105,-0.406608,0.285346,,
+781,./real/1/781r.png,./scatter/1/781s.png,Truncated Cuboctahedron,O_h,2.64718,-1.26656,1.83996,0.544308,1.15858,C4,0.399995,C4
+782,./real/1/782r.png,./scatter/1/782s.png,Truncated Dodecahedron,I_h,0.908919,-2.05342,-0.192558,0.336842,1.33129,C5,0.794114,C5
+783,./real/1/783r.png,./scatter/1/783s.png,Truncated Dodecahedron,I_h,0.50308,0.433754,2.54925,0.918011,1.08931,C5,0.996599,C5
+784,./real/1/784r.png,./scatter/1/784s.png,Sphere,SO(3),1.23682,-0.340617,-2.61325,0.542687,1.54719,z,0.602346,z
+785,./real/1/785r.png,./scatter/1/785s.png,Truncated Cube,O_h,1.19761,-0.333668,0.520001,0.396589,0.974078,C2,0.998411,C2
+786,./real/1/786r.png,./scatter/1/786s.png,Truncated Icosahedron,I_h,2.54469,-2.75793,0.312538,0.348461,1.01677,C5,0.480244,C5
+787,./real/1/787r.png,./scatter/1/787s.png,Truncated Cuboctahedron,O_h,2.62636,0.14317,1.45855,0.459138,0.648952,C4,0.332007,C4
+788,./real/1/788r.png,./scatter/1/788s.png,Octahedron,O_h,1.04623,-2.7746,-1.56327,0.341043,1.65833,C3,0.78217,C3
+789,./real/1/789r.png,./scatter/1/789s.png,Octahedron,O_h,0.785657,2.70221,-2.6856,0.559747,0.590942,C2,0.725314,C2
+790,./real/1/790r.png,./scatter/1/790s.png,Truncated Icosahedron,I_h,2.6177,-1.0031,0.833914,0.776877,0.984815,C3,0.630384,C3
+791,./real/1/791r.png,./scatter/1/791s.png,Rhombicuboctahedron,O_h,2.61112,1.72094,-2.53681,0.701813,1.00019,C2,0.837013,C2
+792,./real/1/792r.png,./scatter/1/792s.png,Truncated Tetrahedron,T_d,2.81224,3.10419,2.99224,0.220029,1.09332,C2,0.898943,C2
+793,./real/1/793r.png,./scatter/1/793s.png,Snub Cube,O,1.61626,1.53248,2.68175,0.447204,1.23664,C3,0.637308,C3
+794,./real/1/794r.png,./scatter/1/794s.png,Snub Cube,O,1.34015,0.136108,0.259032,0.432822,0.613226,C4,0.585717,C4
+795,./real/1/795r.png,./scatter/1/795s.png,Truncated Tetrahedron,T_d,0.827544,-3.12959,-2.23634,0.663293,1.00015,C3,0.820626,C3
+796,./real/1/796r.png,./scatter/1/796s.png,Truncated Icosahedron,I_h,1.65447,-2.4152,2.16021,0.649161,0.909967,C5,0.316779,C5
+797,./real/1/797r.png,./scatter/1/797s.png,Truncated Rhombicosidodecahedron,I_h,2.11619,2.8379,2.60524,0.967776,1.0333,C2,0.328008,C2
+798,./real/1/798r.png,./scatter/1/798s.png,Truncated Icosahedron,I_h,2.7622,-0.336294,-2.89596,0.701974,1.42455,C5,0.723248,C5
+799,./real/1/799r.png,./scatter/1/799s.png,Icosidodecahedron,I_h,2.3739,1.97824,0.207114,0.214028,0.973561,C2,0.27936,C2
+800,./real/1/800r.png,./scatter/1/800s.png,Rhombicosidodecahedron,I_h,1.21253,-0.218816,-2.71199,0.772122,1.29513,C5,0.713144,C5
+801,./real/1/801r.png,./scatter/1/801s.png,Truncated Twinned Tetrahedron,C_6,0.76937,-2.74375,-1.64984,0.664378,0.752198,C6,0.706709,C6
+802,./real/1/802r.png,./scatter/1/802s.png,Icosidodecahedron,I_h,0.830983,-2.95663,1.50154,0.583652,0.698341,C3,0.990167,C3
+803,./real/1/803r.png,./scatter/1/803s.png,Snub Cube,O,2.03562,0.261067,-0.374113,0.271541,1.99482,C4,0.513602,C4
+804,./real/1/804r.png,./scatter/1/804s.png,Icosahedron,I_h,1.59187,-0.335338,-2.5285,0.551172,1.73529,C3,0.491335,C3
+805,./real/1/805r.png,./scatter/1/805s.png,Snub Cube,O,1.67135,1.95849,-3.12485,0.848613,0.831154,C2,0.630321,C2
+806,./real/1/806r.png,./scatter/1/806s.png,Truncated Icosahedron,I_h,1.80755,-0.214429,-2.96456,0.772959,1.29373,C3,0.343155,C3
+807,./real/1/807r.png,./scatter/1/807s.png,Icosidodecahedron,I_h,2.58598,-1.26338,-1.18268,0.207179,1.23618,C5,0.630039,C5
+808,./real/1/808r.png,./scatter/1/808s.png,Octahedron,O_h,1.21058,2.80393,2.81776,0.308358,1.80913,C2,0.356064,C2
+809,./real/1/809r.png,./scatter/1/809s.png,Potato,None,0.414418,-1.24728,0.530733,0.793887,,
+810,./real/1/810r.png,./scatter/1/810s.png,Octahedron,O_h,1.46375,1.30422,-0.53536,0.885183,1.12971,C4,0.772764,C4
+811,./real/1/811r.png,./scatter/1/811s.png,Rhombicosidodecahedron,I_h,1.37427,-0.125485,-2.69366,0.753413,0.887114,C5,0.943809,C5
+812,./real/1/812r.png,./scatter/1/812s.png,Truncated Octahedron,O_h,1.12951,1.73564,2.27479,0.337125,0.596726,C3,0.849614,C3
+813,./real/1/813r.png,./scatter/1/813s.png,Truncated Icosahedron,I_h,0.557171,-1.07341,-2.38066,0.617029,0.532203,C5,0.917507,C5
+814,./real/1/814r.png,./scatter/1/814s.png,Octahedron,O_h,0.812387,-2.73875,0.690973,0.420263,1.52332,C3,0.219368,C3
+815,./real/1/815r.png,./scatter/1/815s.png,Truncated Icosahedron,I_h,1.41296,-0.075851,2.63485,0.357067,0.75985,C5,0.241598,C5
+816,./real/1/816r.png,./scatter/1/816s.png,Snub Cube,O,0.1284,-2.67093,-2.62364,0.441833,0.947923,C3,0.926001,C3
+817,./real/1/817r.png,./scatter/1/817s.png,Potato,None,1.0719,1.86683,-1.03187,0.692457,,
+818,./real/1/818r.png,./scatter/1/818s.png,Rhombicosidodecahedron,I_h,2.43889,0.682245,3.07086,0.326259,1.11522,C5,0.439839,C5
+819,./real/1/819r.png,./scatter/1/819s.png,Icosahedron,I_h,1.80773,2.48002,-0.52302,0.625111,0.724478,C3,0.463189,C3
+820,./real/1/820r.png,./scatter/1/820s.png,Truncated Icosahedron,I_h,2.84763,0.593469,1.97846,0.340604,0.581599,C5,0.307888,C5
+821,./real/1/821r.png,./scatter/1/821s.png,Cube,O_h,1.02956,2.37961,-2.00947,0.640406,1.56151,C2,0.545605,C2
+822,./real/1/822r.png,./scatter/1/822s.png,Truncated Octahedron,O_h,1.14026,-2.89903,-2.50437,0.288093,0.874133,C2,0.855278,C2
+823,./real/1/823r.png,./scatter/1/823s.png,Rhombicuboctahedron,O_h,1.49689,-1.99431,2.54871,0.766451,1.30472,C4,0.540015,C4
+824,./real/1/824r.png,./scatter/1/824s.png,Sphere,SO(3),2.33437,0.222672,2.61432,0.968844,1.03216,z,0.989397,z
+825,./real/1/825r.png,./scatter/1/825s.png,Truncated Cuboctahedron,O_h,0.774465,-1.80562,1.06689,0.799436,0.815174,C3,0.899698,C3
+826,./real/1/826r.png,./scatter/1/826s.png,Dodecahedron,I_h,2.96638,-2.47285,2.59147,0.97322,1.02752,C2,0.233226,C2
+827,./real/1/827r.png,./scatter/1/827s.png,Potato,None,1.4003,-0.142417,1.44321,0.911735,,
+828,./real/1/828r.png,./scatter/1/828s.png,Rhombicosidodecahedron,I_h,0.156846,1.94375,-1.84373,0.354081,1.99535,C2,0.379207,C2
+829,./real/1/829r.png,./scatter/1/829s.png,Icosahedron,I_h,1.79547,-2.97583,-1.59955,0.685499,1.45879,C2,0.339835,C2
+830,./real/1/830r.png,./scatter/1/830s.png,Icosahedron,I_h,1.3965,-2.96839,0.583328,0.529472,1.64755,C3,0.307264,C3
+831,./real/1/831r.png,./scatter/1/831s.png,Icosidodecahedron,I_h,1.1607,1.32751,-0.532037,0.923856,1.08242,C2,0.206914,C2
+832,./real/1/832r.png,./scatter/1/832s.png,Truncated Rhombicosidodecahedron,I_h,2.40218,2.78139,2.08723,0.873812,1.14441,C3,0.743492,C3
+833,./real/1/833r.png,./scatter/1/833s.png,Truncated Cube,O_h,0.9498,-2.24646,2.44563,0.524088,0.539758,C2,0.286769,C2
+834,./real/1/834r.png,./scatter/1/834s.png,Truncated Twinned Tetrahedron,C_6,1.39096,0.233996,1.18927,0.613386,1.63029,C2,0.484646,C2
+835,./real/1/835r.png,./scatter/1/835s.png,Icosahedron,I_h,1.36484,-0.91369,-2.1011,0.361614,1.85404,C5,0.628567,C5
+836,./real/1/836r.png,./scatter/1/836s.png,Truncated Rhombicosidodecahedron,I_h,1.2992,-0.524198,2.91931,0.980042,1.02036,C2,0.754311,C2
+837,./real/1/837r.png,./scatter/1/837s.png,Truncated Octahedron,O_h,2.56439,-2.1822,-1.0143,0.926352,1.0795,C4,0.35729,C4
+838,./real/1/838r.png,./scatter/1/838s.png,Cube,O_h,0.224755,-2.63758,-1.19874,0.260795,0.531218,C2,0.274773,C2
+839,./real/1/839r.png,./scatter/1/839s.png,Truncated Icosahedron,I_h,1.52714,1.77121,1.36502,0.384898,0.655971,C3,0.315396,C3
+840,./real/1/840r.png,./scatter/1/840s.png,Decahedron,D_5h,1.77742,0.93596,-1.89425,0.534967,1.05241,C2,0.770534,C2
+841,./real/1/841r.png,./scatter/1/841s.png,Cube,O_h,2.2349,-0.744563,0.493478,0.795464,0.540856,C2,0.720519,C2
+842,./real/1/842r.png,./scatter/1/842s.png,Decahedron,D_5h,1.83236,-0.583885,2.40356,0.714675,1.39924,C2,0.856785,C2
+843,./real/1/843r.png,./scatter/1/843s.png,Rhombicosidodecahedron,I_h,2.08237,-0.783207,-2.12399,0.64764,1.54407,C2,0.578398,C2
+844,./real/1/844r.png,./scatter/1/844s.png,Truncated Cube,O_h,2.28487,-1.3716,1.11946,0.609708,0.887739,C2,0.306233,C2
+845,./real/1/845r.png,./scatter/1/845s.png,Icosidodecahedron,I_h,0.638955,-1.55568,2.75897,0.384097,0.705704,C3,0.349304,C3
+846,./real/1/846r.png,./scatter/1/846s.png,Truncated Cube,O_h,1.85339,-0.64212,0.95974,0.249378,0.961982,C4,0.38666,C4
+847,./real/1/847r.png,./scatter/1/847s.png,Rhombicosidodecahedron,I_h,1.98006,1.86391,-0.0363035,0.584204,1.30054,C2,0.457607,C2
+848,./real/1/848r.png,./scatter/1/848s.png,Truncated Octahedron,O_h,1.44227,-3.02514,1.60542,0.624918,1.60021,C4,0.417286,C4
+849,./real/1/849r.png,./scatter/1/849s.png,Potato,None,0.817141,-1.1861,1.96317,0.834671,,
+850,./real/1/850r.png,./scatter/1/850s.png,Truncated Tetrahedron,T_d,0.937149,-2.09507,-0.436675,0.968464,1.03256,C3,0.831583,C3
+851,./real/1/851r.png,./scatter/1/851s.png,Rhombicuboctahedron,O_h,2.01543,1.95623,-0.0563425,0.47505,1.27592,C4,0.678332,C4
+852,./real/1/852r.png,./scatter/1/852s.png,Truncated Cube,O_h,0.948632,0.347424,1.92511,0.723917,1.38137,C3,0.919566,C3
+853,./real/1/853r.png,./scatter/1/853s.png,Rhombicuboctahedron,O_h,1.7693,-1.69583,3.02833,0.372754,1.04816,C2,0.712214,C2
+854,./real/1/854r.png,./scatter/1/854s.png,Potato,None,2.8445,-3.00258,1.40509,0.605318,,
+855,./real/1/855r.png,./scatter/1/855s.png,Decahedron,D_5h,1.43584,0.923129,-2.15241,0.767468,1.30299,C2,0.578115,C2
+856,./real/1/856r.png,./scatter/1/856s.png,Tetrahedron,T_d,2.17763,-1.26705,1.43994,0.596648,1.47791,C2,0.441753,C2
+857,./real/1/857r.png,./scatter/1/857s.png,Icosidodecahedron,I_h,1.63325,-1.26691,0.107818,0.997261,1.00275,C2,0.95927,C2
+858,./real/1/858r.png,./scatter/1/858s.png,Rhombicosidodecahedron,I_h,0.264791,2.99236,-1.01499,0.648588,0.699263,C5,0.8664,C5
+859,./real/1/859r.png,./scatter/1/859s.png,Cuboctahedron,O_h,2.62105,-2.51353,-3.07392,0.526367,1.65292,C3,0.954387,C3
+860,./real/1/860r.png,./scatter/1/860s.png,Icosidodecahedron,I_h,2.18387,2.37059,3.0436,0.646535,1.54671,C5,0.3749,C5
+861,./real/1/861r.png,./scatter/1/861s.png,Rhombicosidodecahedron,I_h,1.80335,1.45454,3.10729,0.541364,1.72622,C2,0.732793,C2
+862,./real/1/862r.png,./scatter/1/862s.png,Cube,O_h,0.687008,-3.05581,-3.0452,0.77183,0.833838,C4,0.254495,C4
+863,./real/1/863r.png,./scatter/1/863s.png,Rhombicosidodecahedron,I_h,2.1575,1.07036,0.930818,0.462851,0.758736,C5,0.319593,C5
+864,./real/1/864r.png,./scatter/1/864s.png,Truncated Tetrahedron,T_d,1.19095,-2.45049,-1.64335,0.40911,0.807887,C3,0.914339,C3
+865,./real/1/865r.png,./scatter/1/865s.png,Truncated Cuboctahedron,O_h,1.51185,-1.60696,2.27687,0.416258,1.80017,C2,0.808195,C2
+866,./real/1/866r.png,./scatter/1/866s.png,Truncated Twinned Tetrahedron,C_6,1.35711,1.17943,2.70514,0.64948,0.752335,C6,0.205861,C6
+867,./real/1/867r.png,./scatter/1/867s.png,Truncated Octahedron,O_h,1.81774,2.29357,2.94297,0.855727,1.1686,C4,0.703993,C4
+868,./real/1/868r.png,./scatter/1/868s.png,Truncated Cube,O_h,2.5316,1.02287,2.66202,0.274618,1.01944,C3,0.597684,C3
+869,./real/1/869r.png,./scatter/1/869s.png,Tetrahedron,T_d,0.494431,-1.90411,2.19648,0.991918,0.639947,C2,0.99366,C2
+870,./real/1/870r.png,./scatter/1/870s.png,Sphere,SO(3),1.0883,1.43379,-1.27701,0.635738,1.34403,z,0.391538,z
+871,./real/1/871r.png,./scatter/1/871s.png,Truncated Icosahedron,I_h,1.21064,0.194847,-1.97113,0.489665,1.31289,C5,0.608128,C5
+872,./real/1/872r.png,./scatter/1/872s.png,Octahedron,O_h,1.36173,-0.502008,1.52414,0.299305,1.34889,C2,0.629838,C2
+873,./real/1/873r.png,./scatter/1/873s.png,Truncated Twinned Tetrahedron,C_6,2.59022,2.67892,-2.68129,0.986943,1.01323,C6,0.651652,C6
+874,./real/1/874r.png,./scatter/1/874s.png,Snub Cube,O,1.55457,-3.08643,1.50124,0.956424,1.04556,C3,0.574753,C3
+875,./real/1/875r.png,./scatter/1/875s.png,Truncated Rhombicosidodecahedron,I_h,2.53562,3.09205,-2.43728,0.584956,1.11044,C3,0.997068,C3
+876,./real/1/876r.png,./scatter/1/876s.png,Cube,O_h,2.33725,3.,2.60351,0.902743,0.638866,C4,0.735384,C4
+877,./real/1/877r.png,./scatter/1/877s.png,Snub Cube,O,1.46022,1.32536,1.17548,0.277392,1.4294,C3,0.485634,C3
+878,./real/1/878r.png,./scatter/1/878s.png,Truncated Rhombicosidodecahedron,I_h,2.21224,1.39418,2.70498,0.280454,1.56808,C5,0.732519,C5
+879,./real/1/879r.png,./scatter/1/879s.png,Octahedron,O_h,2.08442,2.89557,2.75423,0.596493,0.521638,C3,0.949927,C3
+880,./real/1/880r.png,./scatter/1/880s.png,Truncated Twinned Tetrahedron,C_6,2.24874,-2.26084,-1.34833,0.599307,0.606356,C2,0.491716,C2
+881,./real/1/881r.png,./scatter/1/881s.png,Snub Cube,O,1.78783,-2.97565,0.0249602,0.506352,1.0251,C3,0.60226,C3
+882,./real/1/882r.png,./scatter/1/882s.png,Rhombicuboctahedron,O_h,0.561805,2.6191,3.00853,0.63679,1.57038,C4,0.945801,C4
+883,./real/1/883r.png,./scatter/1/883s.png,Truncated Tetrahedron,T_d,0.537572,-0.863261,-2.87845,0.487561,1.79461,C3,0.304078,C3
+884,./real/1/884r.png,./scatter/1/884s.png,Icosidodecahedron,I_h,1.06798,-1.9988,1.41579,0.715653,1.24223,C3,0.438645,C3
+885,./real/1/885r.png,./scatter/1/885s.png,Cube,O_h,1.18563,2.05274,-2.64863,0.422079,1.07945,C2,0.217379,C2
+886,./real/1/886r.png,./scatter/1/886s.png,Dodecahedron,I_h,1.05166,0.999999,-2.64673,0.854157,1.17074,C3,0.384188,C3
+887,./real/1/887r.png,./scatter/1/887s.png,Truncated Cube,O_h,2.01082,1.9438,2.45733,0.884563,0.744955,C2,0.593583,C2
+888,./real/1/888r.png,./scatter/1/888s.png,Truncated Twinned Tetrahedron,C_6,2.38748,-0.587023,2.18361,0.718838,1.39113,C2,0.883081,C2
+889,./real/1/889r.png,./scatter/1/889s.png,Rhombicuboctahedron,O_h,0.431429,3.08374,2.96222,0.329066,1.48575,C2,0.898404,C2
+890,./real/1/890r.png,./scatter/1/890s.png,Potato,None,1.63779,-0.807682,-1.09507,0.942747,,
+891,./real/1/891r.png,./scatter/1/891s.png,Cuboctahedron,O_h,0.314022,-0.0799654,0.0629,0.693817,1.41351,C4,0.245208,C4
+892,./real/1/892r.png,./scatter/1/892s.png,Sphere,SO(3),0.98227,-0.595378,-1.93947,0.212731,0.589219,z,0.967563,z
+893,./real/1/893r.png,./scatter/1/893s.png,Snub Cube,O,2.22472,1.40385,-1.49226,0.308677,1.92394,C3,0.941352,C3
+894,./real/1/894r.png,./scatter/1/894s.png,Icosidodecahedron,I_h,0.885521,1.49519,-1.1557,0.846252,1.17357,C2,0.803724,C2
+895,./real/1/895r.png,./scatter/1/895s.png,Dodecahedron,I_h,0.926613,-1.07966,-0.343386,0.657156,1.52171,C5,0.350187,C5
+896,./real/1/896r.png,./scatter/1/896s.png,Truncated Cube,O_h,0.485443,-1.09415,-0.17084,0.664323,1.49131,C2,0.498759,C2
+897,./real/1/897r.png,./scatter/1/897s.png,Icosidodecahedron,I_h,1.02019,2.97072,0.735421,0.744688,0.517101,C5,0.454302,C5
+898,./real/1/898r.png,./scatter/1/898s.png,Cube,O_h,1.9522,1.9202,0.948298,0.51223,0.727865,C4,0.573172,C4
+899,./real/1/899r.png,./scatter/1/899s.png,Dodecahedron,I_h,1.09799,-0.150543,1.44069,0.614769,1.19455,C2,0.298078,C2
+900,./real/1/900r.png,./scatter/1/900s.png,Icosahedron,I_h,1.61347,1.7587,1.99305,0.729941,0.722998,C3,0.302323,C3
+901,./real/1/901r.png,./scatter/1/901s.png,Truncated Icosahedron,I_h,0.949237,1.22744,-1.53253,0.719918,0.599881,C5,0.659801,C5
+902,./real/1/902r.png,./scatter/1/902s.png,Octahedron,O_h,1.24843,-0.206045,1.65271,0.525059,0.640289,C3,0.979205,C3
+903,./real/1/903r.png,./scatter/1/903s.png,Rhombicuboctahedron,O_h,0.978791,3.03445,2.49235,0.99626,1.00375,C2,0.953887,C2
+904,./real/1/904r.png,./scatter/1/904s.png,Truncated Cuboctahedron,O_h,0.620517,-2.57503,-1.2568,0.634927,1.46961,C2,0.231772,C2
+905,./real/1/905r.png,./scatter/1/905s.png,Cuboctahedron,O_h,1.05333,-0.248076,2.96368,0.245323,1.93562,C4,0.35022,C4
+906,./real/1/906r.png,./scatter/1/906s.png,Truncated Cuboctahedron,O_h,1.65085,-1.29146,1.37968,0.41277,1.11686,C4,0.751473,C4
+907,./real/1/907r.png,./scatter/1/907s.png,Decahedron,D_5h,1.15259,1.31763,-0.683692,0.485398,0.934117,C5,0.391769,C5
+908,./real/1/908r.png,./scatter/1/908s.png,Octahedron,O_h,1.96096,-2.75018,1.45568,0.493852,0.780377,C2,0.934691,C2
+909,./real/1/909r.png,./scatter/1/909s.png,Icosahedron,I_h,1.23904,-1.54621,-1.70606,0.924882,0.98003,C3,0.918584,C3
+910,./real/1/910r.png,./scatter/1/910s.png,Tetrahedron,T_d,1.8981,1.33847,-0.656674,0.956503,1.04547,C2,0.690243,C2
+911,./real/1/911r.png,./scatter/1/911s.png,Potato,None,2.96682,2.28235,-2.22634,0.328495,,
+912,./real/1/912r.png,./scatter/1/912s.png,Truncated Dodecahedron,I_h,2.61813,-2.01561,2.24156,0.297042,1.06098,C3,0.556297,C3
+913,./real/1/913r.png,./scatter/1/913s.png,Decahedron,D_5h,2.80838,3.11107,3.03822,0.412454,1.56639,C5,0.972491,C5
+914,./real/1/914r.png,./scatter/1/914s.png,Truncated Rhombicosidodecahedron,I_h,2.20769,-2.41112,0.294649,0.812931,0.702342,C3,0.988976,C3
+915,./real/1/915r.png,./scatter/1/915s.png,Rhombicuboctahedron,O_h,2.36455,-0.0105502,2.94622,0.631263,0.723242,C3,0.712593,C3
+916,./real/1/916r.png,./scatter/1/916s.png,Icosahedron,I_h,1.52486,2.14365,-1.02352,0.717801,1.07701,C5,0.574461,C5
+917,./real/1/917r.png,./scatter/1/917s.png,Icosidodecahedron,I_h,0.952521,-2.55686,1.96365,0.607397,1.64637,C3,0.663274,C3
+918,./real/1/918r.png,./scatter/1/918s.png,Truncated Tetrahedron,T_d,1.87987,0.879198,-1.7965,0.84797,1.17929,C3,0.937006,C3
+919,./real/1/919r.png,./scatter/1/919s.png,Octahedron,O_h,2.17284,-0.117084,0.0567158,0.679666,1.1063,C3,0.361603,C3
+920,./real/1/920r.png,./scatter/1/920s.png,Truncated Rhombicosidodecahedron,I_h,1.72174,1.98843,1.94768,0.659049,0.986653,C5,0.847398,C5
+921,./real/1/921r.png,./scatter/1/921s.png,Tetrahedron,T_d,2.54998,0.393861,-1.59728,0.340885,0.628058,C2,0.218533,C2
+922,./real/1/922r.png,./scatter/1/922s.png,Truncated Octahedron,O_h,1.72059,2.54598,1.23398,0.528302,1.79065,C3,0.495769,C3
+923,./real/1/923r.png,./scatter/1/923s.png,Rhombicuboctahedron,O_h,2.54424,1.46486,-2.82194,0.882924,1.1326,C2,0.446147,C2
+924,./real/1/924r.png,./scatter/1/924s.png,Octahedron,O_h,2.13356,-1.79707,-1.33438,0.775179,0.956247,C4,0.458027,C4
+925,./real/1/925r.png,./scatter/1/925s.png,Rhombicuboctahedron,O_h,2.13615,-2.82323,0.145239,0.27001,1.1984,C3,0.72091,C3
+926,./real/1/926r.png,./scatter/1/926s.png,Truncated Twinned Tetrahedron,C_6,2.28747,2.53347,2.00533,0.342809,1.06468,C6,0.490102,C6
+927,./real/1/927r.png,./scatter/1/927s.png,Dodecahedron,I_h,2.02967,-1.96426,0.823047,0.613993,1.19622,C2,0.737779,C2
+928,./real/1/928r.png,./scatter/1/928s.png,Rhombicosidodecahedron,I_h,1.52464,1.75008,1.21126,0.990264,0.589133,C2,0.828277,C2
+929,./real/1/929r.png,./scatter/1/929s.png,Truncated Cuboctahedron,O_h,0.287864,2.35179,0.158527,0.353988,0.966623,C2,0.764774,C2
+930,./real/1/930r.png,./scatter/1/930s.png,Rhombicosidodecahedron,I_h,1.56308,2.3165,-2.67862,0.326116,0.700372,C2,0.374008,C2
+931,./real/1/931r.png,./scatter/1/931s.png,Icosahedron,I_h,0.939054,1.90647,1.912,0.476509,0.883506,C2,0.856026,C2
+932,./real/1/932r.png,./scatter/1/932s.png,Truncated Octahedron,O_h,1.52975,-0.782966,2.03554,0.952319,0.629719,C2,0.949902,C2
+933,./real/1/933r.png,./scatter/1/933s.png,Truncated Tetrahedron,T_d,2.09881,-0.297383,-3.12379,0.942278,1.06126,C3,0.563608,C3
+934,./real/1/934r.png,./scatter/1/934s.png,Potato,None,2.3362,0.60324,2.80369,0.861941,,
+935,./real/1/935r.png,./scatter/1/935s.png,Rhombicosidodecahedron,I_h,1.55913,-2.57824,1.45921,0.42263,1.25589,C2,0.856697,C2
+936,./real/1/936r.png,./scatter/1/936s.png,Truncated Octahedron,O_h,0.335824,-0.390731,-2.29642,0.97872,1.02174,C3,0.792845,C3
+937,./real/1/937r.png,./scatter/1/937s.png,Truncated Octahedron,O_h,2.45317,-2.96285,1.6041,0.296432,1.15379,C2,0.8039,C2
+938,./real/1/938r.png,./scatter/1/938s.png,Icosahedron,I_h,2.11793,1.71755,0.387897,0.885707,0.640273,C2,0.287272,C2
+939,./real/1/939r.png,./scatter/1/939s.png,Truncated Rhombicosidodecahedron,I_h,2.93302,0.128322,-2.09258,0.539198,0.640826,C5,0.307111,C5
+940,./real/1/940r.png,./scatter/1/940s.png,Sphere,SO(3),0.135864,0.520261,-2.43895,0.381551,0.760626,z,0.271162,z
+941,./real/1/941r.png,./scatter/1/941s.png,Sphere,SO(3),2.33927,-0.545274,0.447822,0.99133,1.00875,z,0.562873,z
+942,./real/1/942r.png,./scatter/1/942s.png,Truncated Dodecahedron,I_h,0.545321,-1.73152,-0.744441,0.889575,0.994487,C3,0.716507,C3
+943,./real/1/943r.png,./scatter/1/943s.png,Truncated Rhombicosidodecahedron,I_h,1.14429,1.90421,-0.240527,0.529977,1.83995,C5,0.231931,C5
+944,./real/1/944r.png,./scatter/1/944s.png,Truncated Cuboctahedron,O_h,1.12254,1.25745,-1.67434,0.549261,1.6358,C2,0.741989,C2
+945,./real/1/945r.png,./scatter/1/945s.png,Truncated Icosahedron,I_h,0.88537,1.64488,1.68502,0.819689,0.834619,C2,0.594005,C2
+946,./real/1/946r.png,./scatter/1/946s.png,Truncated Octahedron,O_h,2.04203,1.69422,2.39251,0.21865,1.29153,C4,0.55743,C4
+947,./real/1/947r.png,./scatter/1/947s.png,Sphere,SO(3),2.65019,-2.23432,-2.63587,0.257519,1.83258,z,0.988183,z
+948,./real/1/948r.png,./scatter/1/948s.png,Truncated Cuboctahedron,O_h,0.522195,2.55928,-1.90978,0.557944,1.56064,C4,0.246407,C4
+949,./real/1/949r.png,./scatter/1/949s.png,Potato,None,2.55744,1.32645,0.574681,0.349444,,
+950,./real/1/950r.png,./scatter/1/950s.png,Decahedron,D_5h,0.868327,0.566235,1.74665,0.641097,0.940845,C2,0.680677,C2
+951,./real/1/951r.png,./scatter/1/951s.png,Decahedron,D_5h,1.93099,0.725226,-0.116949,0.557002,1.18968,C5,0.864732,C5
+952,./real/1/952r.png,./scatter/1/952s.png,Truncated Icosahedron,I_h,0.970592,2.98265,1.79594,0.669772,0.55422,C3,0.906723,C3
+953,./real/1/953r.png,./scatter/1/953s.png,Rhombicuboctahedron,O_h,1.64462,-1.3971,0.782697,0.255856,0.612903,C3,0.484409,C3
+954,./real/1/954r.png,./scatter/1/954s.png,Icosidodecahedron,I_h,1.14169,1.2174,-0.785868,0.23075,1.37418,C3,0.299637,C3
+955,./real/1/955r.png,./scatter/1/955s.png,Cube,O_h,1.55227,-1.06405,-1.9343,0.542137,1.44946,C3,0.231422,C3
+956,./real/1/956r.png,./scatter/1/956s.png,Truncated Octahedron,O_h,1.08476,-1.06668,-1.3913,0.800453,0.631596,C2,0.368042,C2
+957,./real/1/957r.png,./scatter/1/957s.png,Dodecahedron,I_h,2.1045,-1.853,2.47052,0.472863,1.04669,C2,0.481981,C2
+958,./real/1/958r.png,./scatter/1/958s.png,Rhombicosidodecahedron,I_h,1.01809,-1.30803,-1.077,0.489637,0.723515,C3,0.661185,C3
+959,./real/1/959r.png,./scatter/1/959s.png,Rhombicuboctahedron,O_h,1.68682,0.604633,-1.39052,0.952782,0.890693,C2,0.972909,C2
+960,./real/1/960r.png,./scatter/1/960s.png,Rhombicuboctahedron,O_h,2.21323,-2.17403,-0.263132,0.206724,0.535709,C3,0.959636,C3
+961,./real/1/961r.png,./scatter/1/961s.png,Cube,O_h,2.5609,1.24975,-2.15889,0.203869,1.97826,C2,0.799106,C2
+962,./real/1/962r.png,./scatter/1/962s.png,Truncated Rhombicosidodecahedron,I_h,1.35752,-0.533904,1.88076,0.602182,1.39099,C2,0.767088,C2
+963,./real/1/963r.png,./scatter/1/963s.png,Snub Cube,O,1.92353,-0.527885,-1.64625,0.651733,0.768671,C3,0.514652,C3
+964,./real/1/964r.png,./scatter/1/964s.png,Truncated Octahedron,O_h,0.511351,-2.52805,-0.528829,0.655658,0.747925,C4,0.687434,C4
+965,./real/1/965r.png,./scatter/1/965s.png,Rhombicosidodecahedron,I_h,1.46801,-0.361266,0.226632,0.298361,0.507702,C5,0.269592,C5
+966,./real/1/966r.png,./scatter/1/966s.png,Tetrahedron,T_d,0.345172,1.46323,-1.42596,0.207882,1.41796,C3,0.267108,C3
+967,./real/1/967r.png,./scatter/1/967s.png,Truncated Octahedron,O_h,2.19776,0.439583,-1.36977,0.850274,1.17609,C2,0.504766,C2
+968,./real/1/968r.png,./scatter/1/968s.png,Decahedron,D_5h,2.60142,1.3949,1.95729,0.897491,1.11422,C2,0.6506,C2
+969,./real/1/969r.png,./scatter/1/969s.png,Decahedron,D_5h,1.96538,3.02694,-0.925823,0.730868,1.36824,C5,0.758057,C5
+970,./real/1/970r.png,./scatter/1/970s.png,Rhombicuboctahedron,O_h,2.64796,-2.8245,0.139771,0.99986,1.00014,C4,0.343693,C4
+971,./real/1/971r.png,./scatter/1/971s.png,Tetrahedron,T_d,2.00226,-0.596219,-2.20432,0.640813,1.3777,C2,0.227938,C2
+972,./real/1/972r.png,./scatter/1/972s.png,Truncated Tetrahedron,T_d,1.33778,-2.24967,3.05893,0.345576,1.61385,C2,0.257343,C2
+973,./real/1/973r.png,./scatter/1/973s.png,Dodecahedron,I_h,1.20848,-1.58288,-1.3851,0.22888,1.06576,C2,0.472261,C2
+974,./real/1/974r.png,./scatter/1/974s.png,Dodecahedron,I_h,1.87687,1.05502,-2.15405,0.792494,1.26184,C3,0.704299,C3
+975,./real/1/975r.png,./scatter/1/975s.png,Truncated Dodecahedron,I_h,0.674847,2.31155,-2.31434,0.429476,1.96219,C5,0.540089,C5
+976,./real/1/976r.png,./scatter/1/976s.png,Truncated Cube,O_h,0.834394,2.42051,-2.57555,0.267282,1.09563,C2,0.575328,C2
+977,./real/1/977r.png,./scatter/1/977s.png,Octahedron,O_h,1.74339,-3.05177,-2.56508,0.4867,0.957831,C3,0.69571,C3
+978,./real/1/978r.png,./scatter/1/978s.png,Decahedron,D_5h,0.949048,2.34005,-0.523086,0.799499,0.984622,C2,0.60168,C2
+979,./real/1/979r.png,./scatter/1/979s.png,Icosahedron,I_h,0.733085,-2.75767,-0.525018,0.268205,1.21951,C2,0.47154,C2
+980,./real/1/980r.png,./scatter/1/980s.png,Octahedron,O_h,2.46208,1.41096,-1.6776,0.351692,0.708625,C2,0.650374,C2
+981,./real/1/981r.png,./scatter/1/981s.png,Snub Cube,O,2.02362,-0.698808,2.74847,0.37894,0.630042,C4,0.84824,C4
+982,./real/1/982r.png,./scatter/1/982s.png,Dodecahedron,I_h,1.87764,-1.76556,-1.95547,0.300089,0.886809,C5,0.263028,C5
+983,./real/1/983r.png,./scatter/1/983s.png,Truncated Rhombicosidodecahedron,I_h,3.00797,1.3939,-0.677189,0.734106,1.3622,C5,0.32676,C5
+984,./real/1/984r.png,./scatter/1/984s.png,Potato,None,0.976399,0.474971,0.666709,0.632552,,
+985,./real/1/985r.png,./scatter/1/985s.png,Tetrahedron,T_d,1.04857,-2.40004,2.31646,0.527001,1.53202,C2,0.733497,C2
+986,./real/1/986r.png,./scatter/1/986s.png,Rhombicosidodecahedron,I_h,1.9196,-2.05289,-2.01574,0.994667,1.00536,C5,0.966801,C5
+987,./real/1/987r.png,./scatter/1/987s.png,Snub Cube,O,0.955738,2.04279,2.13697,0.808006,0.556988,C2,0.434846,C2
+988,./real/1/988r.png,./scatter/1/988s.png,Dodecahedron,I_h,1.52182,0.147287,-1.56383,0.92514,1.08092,C5,0.624676,C5
+989,./real/1/989r.png,./scatter/1/989s.png,Icosahedron,I_h,2.60829,-1.68237,0.598216,0.929093,1.00762,C3,0.946717,C3
+990,./real/1/990r.png,./scatter/1/990s.png,Truncated Dodecahedron,I_h,2.07483,1.85982,2.43466,0.84984,0.929536,C2,0.611966,C2
+991,./real/1/991r.png,./scatter/1/991s.png,Icosahedron,I_h,1.11644,-2.49866,-2.36602,0.515187,0.769143,C3,0.994243,C3
+992,./real/1/992r.png,./scatter/1/992s.png,Potato,None,0.625597,1.21635,-2.7478,0.211228,,
+993,./real/1/993r.png,./scatter/1/993s.png,Truncated Dodecahedron,I_h,2.12057,-1.34085,-2.33155,0.46421,1.50286,C5,0.757022,C5
+994,./real/1/994r.png,./scatter/1/994s.png,Truncated Dodecahedron,I_h,0.73744,2.64743,-1.34561,0.414476,1.93875,C5,0.864774,C5
+995,./real/1/995r.png,./scatter/1/995s.png,Truncated Tetrahedron,T_d,1.88511,-1.45755,-0.865957,0.782442,0.517322,C3,0.872094,C3
+996,./real/1/996r.png,./scatter/1/996s.png,Octahedron,O_h,2.05949,0.484848,-0.262093,0.889285,1.1245,C3,0.856029,C3
+997,./real/1/997r.png,./scatter/1/997s.png,Icosahedron,I_h,0.541426,-1.57775,-0.994095,0.941712,1.0619,C3,0.913009,C3
+998,./real/1/998r.png,./scatter/1/998s.png,Sphere,SO(3),1.58021,0.884607,-0.629797,0.222375,1.85249,z,0.830835,z
+999,./real/1/999r.png,./scatter/1/999s.png,Truncated Cuboctahedron,O_h,0.98737,1.09421,-1.79853,0.87802,1.13893,C4,0.352743,C4
+1000,./real/1/1000r.png,./scatter/1/1000s.png,Tetrahedron,T_d,1.10095,1.01948,-2.30995,0.695599,1.43761,C2,0.45245,C2
