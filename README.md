@@ -1,5 +1,5 @@
 # Reconstruction of nanoscale particles from single-shot wide-angle FEL diffraction patterns with physics-informed neural networks
-The repository `scatter-2d3d-nn` provides the code used in the equally named [paper](https://arxiv.org/abs/2101.09136) for the reconstruction of three-dimensional object densities of nanoclusters from single-shot wide angle diffraction patterns. For details on the physical background refer to the arXiv preprint [2101.09136](https://arxiv.org/abs/2101.09136).
+The repository `scatter-2d3d-nn` provides the code used in the equally named [paper](https://doi.org/10.1103/PhysRevE.103.053312) for the reconstruction of three-dimensional object densities of nanoclusters from single-shot wide angle diffraction patterns. For details on the physical background refer to the arXiv preprint [2101.09136](https://arxiv.org/abs/2101.09136).
 
 ## Usage
 The [main notebook](https://github.com/thstielow/scatter-2D3D-nn/blob/main/main.ipynb) demonstrates the physics informed training of the scatter reconstruction nn on a sample portion of the original dataset. The neural network constructor can be found in [scatter_rec_model.py](https://github.com/thstielow/scatter-2D3D-nn/blob/main/scatter_rec_model.py), while [physics_loss.py](https://github.com/thstielow/scatter-2D3D-nn/blob/main/physics_loss.py) implements the physics informed loss function.
